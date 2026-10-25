@@ -8,7 +8,7 @@ tags: ["AWS Bedrock", "Amazon Web Services", "Claude 3.5", "Llama 3.3", "DeepSee
 featured: false
 ---
 
-> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/aws-bedrock-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/aws-bedrock-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます：[https://freeaidog.com/ja/](https://freeaidog.com/ja/)。
 
 
 # Amazon AWS Bedrock 徹底解説：新規最大200ドルの無料試用クレジット（6ヶ月）、117+ 企業向けモデル群とBatch推論50%割引の活用術
@@ -132,3 +132,4 @@ Bedrock は静的な Bearer API Key ではなく、AWS IAM の Access Key ID と
 > 💡 **元記事と稼働監視**：
 > - 元記事: [FreeAI Dog 公式ブログ](https://freeaidog.com/ja/blog/aws-bedrock-api-guide/)
 > - 無料AIモデルのリアルタイム稼働状況と遅延データは [FreeAI Dog 可用性レーダー](https://freeaidog.com/ja/radar/) をご覧ください。
+

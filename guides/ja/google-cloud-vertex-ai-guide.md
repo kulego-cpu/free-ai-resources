@@ -8,7 +8,7 @@ tags: ["Google Cloud", "Vertex AI", "Gemini 2.5", "無料クレジット", "300�
 featured: false
 ---
 
-> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/google-cloud-vertex-ai-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/google-cloud-vertex-ai-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます：[https://freeaidog.com/ja/](https://freeaidog.com/ja/)。
 
 
 # Google Cloud Vertex AI 徹底解説：新規300ドル試用枠（90日）、開発者月10ドル特典＆0ドル予算による自動課金防止手順
@@ -122,3 +122,4 @@ Google Cloud Vertex AI は、クラウド業界で最も気前の良い試用枠
 > 💡 **元記事と稼働監視**：
 > - 元記事: [FreeAI Dog 公式ブログ](https://freeaidog.com/ja/blog/google-cloud-vertex-ai-guide/)
 > - 無料AIモデルのリアルタイム稼働状況と遅延データは [FreeAI Dog 可用性レーダー](https://freeaidog.com/ja/radar/) をご覧ください。
+

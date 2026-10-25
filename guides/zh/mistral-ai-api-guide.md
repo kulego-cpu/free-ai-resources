@@ -8,7 +8,7 @@ tags: ["Mistral AI", "Codestral", "Mistral Small", "欧洲开源", "永久免费
 featured: false
 ---
 
-> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/mistral-ai-api-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/zh/blog/mistral-ai-api-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站：[https://freeaidog.com/zh/](https://freeaidog.com/zh/)。
 
 
 # Mistral AI：欧洲开源之王、免信用卡 Experiment 实验层、2026 年 10 月改版真相与工程避坑指南
@@ -167,5 +167,6 @@ Mistral AI 在当今大模型生态中占据着非常独特且关键的地位：
 ---
 
 > 💡 **原文首发与实时探活**：
-> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/blog/mistral-ai-api-guide/)
-> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/radar/)
+> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/zh/blog/mistral-ai-api-guide/)
+> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/zh/radar/)
+

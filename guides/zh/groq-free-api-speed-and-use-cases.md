@@ -8,7 +8,7 @@ tags: ["Groq", "免费API", "LPU", "沉浸式翻译", "Whisper", "实战测评"]
 featured: true
 ---
 
-> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/groq-free-api-speed-and-use-cases/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/zh/blog/groq-free-api-speed-and-use-cases/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站：[https://freeaidog.com/zh/](https://freeaidog.com/zh/)。
 
 
 # 速度的降维打击：为什么每个开发者都该有一个 Groq Key？
@@ -140,5 +140,6 @@ Groq 并不是一个十全十美的全能巨兽，但它绝对是 AI 军备竞�
 ---
 
 > 💡 **原文首发与实时探活**：
-> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/blog/groq-free-api-speed-and-use-cases/)
-> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/radar/)
+> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/zh/blog/groq-free-api-speed-and-use-cases/)
+> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/zh/radar/)
+

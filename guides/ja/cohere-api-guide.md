@@ -8,7 +8,7 @@ tags: ["Cohere", "Command R+", "Rerank", "Embed", "永久無料", "RAG金標", "
 featured: false
 ---
 
-> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/cohere-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/cohere-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます：[https://freeaidog.com/ja/](https://freeaidog.com/ja/)。
 
 
 # Cohere 完全実践ガイド：企業向けRAG検索の業界標準、ゼロ障壁 Trial Key（月1,000回無料）＆ネイティブCORS活用法
@@ -148,3 +148,4 @@ Cohere はAI開発者にとって欠かせない強力なプラットフォー�
 > 💡 **元記事と稼働監視**：
 > - 元記事: [FreeAI Dog 公式ブログ](https://freeaidog.com/ja/blog/cohere-api-guide/)
 > - 無料AIモデルのリアルタイム稼働状況と遅延データは [FreeAI Dog 可用性レーダー](https://freeaidog.com/ja/radar/) をご覧ください。
+

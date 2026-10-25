@@ -8,7 +8,7 @@ tags: ["LLM7.io", "GPT-4o-mini", "免费额度", "免绑卡", "免注册", "Deep
 featured: false
 ---
 
-> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/llm7-api-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/zh/blog/llm7-api-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站：[https://freeaidog.com/zh/](https://freeaidog.com/zh/)。
 
 
 # LLM7.io API 深度实测指南：全网唯一免费白嫖 GPT-4o-mini、每日 100K Tokens 滚动刷新、免注册调用与 CORS 完全开放
@@ -137,5 +137,6 @@ curl -X POST https://api.llm7.io/v1/chat/completions \
 ---
 
 > 💡 **原文首发与实时探活**：
-> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/blog/llm7-api-guide/)
-> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/radar/)
+> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/zh/blog/llm7-api-guide/)
+> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/zh/radar/)
+

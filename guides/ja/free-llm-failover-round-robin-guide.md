@@ -8,7 +8,7 @@ tags: ["高可用性", "APIゲートウェイ", "429対策", "Cloudflare Worker"
 featured: true
 ---
 
-> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/free-llm-failover-round-robin-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/free-llm-failover-round-robin-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます：[https://freeaidog.com/ja/](https://freeaidog.com/ja/)。
 
 
 # 課題：なぜ無料AI APIは本番利用で頻繁に停止するのか？
@@ -147,3 +147,4 @@ for chunk in response:
 > 💡 **元記事と稼働監視**：
 > - 元記事: [FreeAI Dog 公式ブログ](https://freeaidog.com/ja/blog/free-llm-failover-round-robin-guide/)
 > - 無料AIモデルのリアルタイム稼働状況と遅延データは [FreeAI Dog 可用性レーダー](https://freeaidog.com/ja/radar/) をご覧ください。
+

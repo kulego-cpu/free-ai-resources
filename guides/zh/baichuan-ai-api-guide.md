@@ -8,7 +8,7 @@ tags: ["百川智能", "Baichuan", "医疗大模型", "王小川", "国内直连
 featured: false
 ---
 
-> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/baichuan-ai-api-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/zh/blog/baichuan-ai-api-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站：[https://freeaidog.com/zh/](https://freeaidog.com/zh/)。
 
 
 # 百川智能 API 深度实测指南：注册送 80 元体验金（约 500 万 Token）、医疗专属模型与 5 RPM 避坑秘籍
@@ -149,5 +149,6 @@ curl -X POST "https://api.baichuan-ai.com/v1/chat/completions" \
 ---
 
 > 💡 **原文首发与实时探活**：
-> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/blog/baichuan-ai-api-guide/)
-> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/radar/)
+> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/zh/blog/baichuan-ai-api-guide/)
+> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/zh/radar/)
+

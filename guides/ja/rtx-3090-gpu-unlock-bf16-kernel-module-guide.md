@@ -8,7 +8,7 @@ tags: ["RTX3090", "GPUUnlock", "Linuxカーネル", "BF16", "ローカルLLM", "
 featured: true
 ---
 
-> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/rtx-3090-gpu-unlock-bf16-kernel-module-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/rtx-3090-gpu-unlock-bf16-kernel-module-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます：[https://freeaidog.com/ja/](https://freeaidog.com/ja/)。
 
 
 # RTX 3090 の計算能力を1.9倍解放？Zagitta製 GPU Unlock カーネルモジュールの実機検証とLLM実効性能
@@ -155,3 +155,4 @@ sudo dmesg | grep -i "gpu_unlock"
 > 💡 **元記事と稼働監視**：
 > - 元記事: [FreeAI Dog 公式ブログ](https://freeaidog.com/ja/blog/rtx-3090-gpu-unlock-bf16-kernel-module-guide/)
 > - 無料AIモデルのリアルタイム稼働状況と遅延データは [FreeAI Dog 可用性レーダー](https://freeaidog.com/ja/radar/) をご覧ください。
+

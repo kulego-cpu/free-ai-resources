@@ -8,7 +8,7 @@ tags: ["Google Cloud", "Vertex AI", "Gemini 2.5", "免费赠金", "$300试用", 
 featured: false
 ---
 
-> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/google-cloud-vertex-ai-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/zh/blog/google-cloud-vertex-ai-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站：[https://freeaidog.com/zh/](https://freeaidog.com/zh/)。
 
 
 # Google Cloud Vertex AI 深度实测指南：新用户免费 $300 试用金（90天）、开发者福利 $10/月与 $0 预算防扣费实操
@@ -120,5 +120,6 @@ Google Cloud Vertex AI 是目前云厂商中给予新开发者**“单笔金额�
 ---
 
 > 💡 **原文首发与实时探活**：
-> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/blog/google-cloud-vertex-ai-guide/)
-> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/radar/)
+> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/zh/blog/google-cloud-vertex-ai-guide/)
+> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/zh/radar/)
+

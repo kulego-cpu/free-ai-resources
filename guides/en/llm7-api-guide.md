@@ -8,7 +8,7 @@ tags: ["LLM7.io", "GPT-4o-mini", "Free Tier", "No Credit Card", "Keyless", "Deep
 featured: false
 ---
 
-> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/llm7-api-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/blog/llm7-api-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site: [https://freeaidog.com/](https://freeaidog.com/).
 
 
 # LLM7.io API In-Depth Guide: The Only Free Tier with GPT-4o-mini, 100K Tokens/Day, Keyless Access & Full CORS
@@ -137,5 +137,6 @@ If you are looking for an API gateway that delivers **free OpenAI GPT-4o-mini ac
 ---
 
 > 💡 **Source & Live Radar**：
-> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/llm7-api-guide/)
-> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/blog/llm7-api-guide/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/radar/)
+

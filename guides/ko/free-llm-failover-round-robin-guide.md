@@ -8,7 +8,7 @@ tags: ["고가용성", "API 게이트웨이", "429 장애조치", "Cloudflare Wo
 featured: true
 ---
 
-> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/free-llm-failover-round-robin-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/free-llm-failover-round-robin-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요: [https://freeaidog.com/ko/](https://freeaidog.com/ko/).
 
 
 # 문제점: 무료 AI API가 프로덕션에서 자주 중단되는 이유
@@ -147,3 +147,4 @@ for chunk in response:
 > 💡 **원문 출처 및 실시간 모니터링**：
 > - 원문 출처: [FreeAI Dog 공식 블로그](https://freeaidog.com/ko/blog/free-llm-failover-round-robin-guide/)
 > - 무료 대형 언어 모델 실시간 가용성 및 지연 시간 측정은 [FreeAI Dog 가용성 레이더](https://freeaidog.com/ko/radar/)에서 확인하세요.
+

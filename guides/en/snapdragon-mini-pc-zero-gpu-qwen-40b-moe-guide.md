@@ -8,7 +8,7 @@ tags: ["Snapdragon", "IdeaCentreMini", "LocalLLM", "Qwen", "MoE", "EdgeAI", "Loc
 featured: true
 ---
 
-> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/snapdragon-mini-pc-zero-gpu-qwen-40b-moe-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/blog/snapdragon-mini-pc-zero-gpu-qwen-40b-moe-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site: [https://freeaidog.com/](https://freeaidog.com/).
 
 
 # Running a 95GB Frontier LLM with Zero GPUs? Hands-on Snapdragon Mini PC Dual-Cluster Guide
@@ -212,5 +212,6 @@ Here are the unfiltered numbers comparing single-unit vs dual-unit performance:
 ---
 
 > 💡 **Source & Live Radar**：
-> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/snapdragon-mini-pc-zero-gpu-qwen-40b-moe-guide/)
-> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/blog/snapdragon-mini-pc-zero-gpu-qwen-40b-moe-guide/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/radar/)
+

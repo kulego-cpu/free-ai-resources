@@ -8,7 +8,7 @@ tags: ["Ollama", "Flint", "MoE", "Code LLM", "Local AI", "VSCode", "Open Source"
 featured: true
 ---
 
-> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/ollama-flint-40b-moe-coding-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/blog/ollama-flint-40b-moe-coding-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site: [https://freeaidog.com/](https://freeaidog.com/).
 
 
 # Ollama v0.40.8 Launches Recursive Flint: Run 40B MoE (2.5B Active) Locally in 1 Command (SWE-bench 74.2%)
@@ -183,5 +183,6 @@ Flint demonstrates that raw parameter bloat is no longer the metric that matters
 ---
 
 > 💡 **Source & Live Radar**：
-> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/ollama-flint-40b-moe-coding-guide/)
-> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/blog/ollama-flint-40b-moe-coding-guide/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/radar/)
+

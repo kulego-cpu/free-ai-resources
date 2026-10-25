@@ -8,7 +8,7 @@ tags: ["Mac-mini", "Apple-Silicon", "Apple-Neural-Engine", "ANE", "ANEMLL", "Qwe
 featured: true
 ---
 
-> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/mac-mini-16g-apple-neural-engine-anemll-qwen-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/mac-mini-16g-apple-neural-engine-anemll-qwen-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요: [https://freeaidog.com/ko/](https://freeaidog.com/ko/).
 
 
 # 32GB 메모리 불안 극복! 16GB Mac mini에서 무소음 팬으로 7B~14B 모델 구동하기: Apple Neural Engine (ANE) 및 ANEMLL 실전 가이드
@@ -152,3 +152,4 @@ python3 -m anemll.run \
 > 💡 **원문 출처 및 실시간 모니터링**：
 > - 원문 출처: [FreeAI Dog 공식 블로그](https://freeaidog.com/ko/blog/mac-mini-16g-apple-neural-engine-anemll-qwen-guide/)
 > - 무료 대형 언어 모델 실시간 가용성 및 지연 시간 측정은 [FreeAI Dog 가용성 레이더](https://freeaidog.com/ko/radar/)에서 확인하세요.
+

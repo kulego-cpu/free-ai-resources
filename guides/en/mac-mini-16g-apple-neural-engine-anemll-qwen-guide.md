@@ -8,7 +8,7 @@ tags: ["Mac-mini", "Apple-Silicon", "Apple-Neural-Engine", "ANE", "ANEMLL", "Qwe
 featured: true
 ---
 
-> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/mac-mini-16g-apple-neural-engine-anemll-qwen-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/blog/mac-mini-16g-apple-neural-engine-anemll-qwen-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site: [https://freeaidog.com/](https://freeaidog.com/).
 
 
 # Break 32GB VRAM Anxiety! Run 7B-14B LLMs on 16GB Mac mini with Zero Fan Noise: Apple Neural Engine (ANE) & ANEMLL Hands-On Guide
@@ -162,5 +162,6 @@ Don't let memory anxiety force you into premature hardware upgrades. Maximize wh
 ---
 
 > 💡 **Source & Live Radar**：
-> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/mac-mini-16g-apple-neural-engine-anemll-qwen-guide/)
-> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/blog/mac-mini-16g-apple-neural-engine-anemll-qwen-guide/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/radar/)
+

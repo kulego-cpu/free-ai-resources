@@ -8,7 +8,7 @@ tags: ["StepFun", "Multimodal", "Audio", "LimitedFree", "CORS", "Prepaid", "Dire
 featured: false
 ---
 
-> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/stepfun-api-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/blog/stepfun-api-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site: [https://freeaidog.com/](https://freeaidog.com/).
 
 
 # StepFun API Deep Dive: stepaudio-3 Multimodal Free Preview, Native CORS Wildcard * & Prepaid Zero-Risk Policy
@@ -141,5 +141,6 @@ curl -X POST "https://api.stepfun.com/v1/chat/completions" \
 ---
 
 > 💡 **Source & Live Radar**：
-> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/stepfun-api-guide/)
-> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/blog/stepfun-api-guide/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/radar/)
+

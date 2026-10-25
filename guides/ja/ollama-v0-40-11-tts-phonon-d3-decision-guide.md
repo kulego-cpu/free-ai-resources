@@ -8,7 +8,7 @@ tags: ["Ollama", "ローカルLLM", "TTS音声合成", "d3決定モデル", "AI�
 featured: true
 ---
 
-> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/ollama-v0-40-11-tts-phonon-d3-decision-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/ollama-v0-40-11-tts-phonon-d3-decision-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます：[https://freeaidog.com/ja/](https://freeaidog.com/ja/)。
 
 
 # 1つのCLIで対話・意図決定・音声合成が完結！Ollama v0.40.11 実践レビュー：内蔵 Phonon TTS と d3 ルーティングモデル活用ガイド
@@ -262,3 +262,4 @@ Ollama v0.40.11 の登場により、ローカル AI は単なる文字入力プ
 > 💡 **元記事と稼働監視**：
 > - 元記事: [FreeAI Dog 公式ブログ](https://freeaidog.com/ja/blog/ollama-v0-40-11-tts-phonon-d3-decision-guide/)
 > - 無料AIモデルのリアルタイム稼働状況と遅延データは [FreeAI Dog 可用性レーダー](https://freeaidog.com/ja/radar/) をご覧ください。
+

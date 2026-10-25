@@ -8,7 +8,7 @@ tags: ["llama.cpp", "Qwen", "Coding-LLM", "8GB-GPU", "RTX4060", "Long-Context", 
 featured: true
 ---
 
-> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/qwen-flash-next-coder-8gb-gpu-262k-context-llamacpp-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/blog/qwen-flash-next-coder-8gb-gpu-262k-context-llamacpp-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site: [https://freeaidog.com/](https://freeaidog.com/).
 
 
 # Run 262K Context on an 8GB GPU at 70 tok/s! llama.cpp Tensor Offload Guide for Qwen Flash Next Coder
@@ -153,5 +153,6 @@ Ultra-long context windows are no longer the exclusive privilege of high-end ent
 ---
 
 > 💡 **Source & Live Radar**：
-> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/qwen-flash-next-coder-8gb-gpu-262k-context-llamacpp-guide/)
-> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/blog/qwen-flash-next-coder-8gb-gpu-262k-context-llamacpp-guide/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/radar/)
+

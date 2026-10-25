@@ -8,7 +8,7 @@ tags: ["ModelScope", "알리바바", "Qwen", "DeepSeek", "오픈소스", "CORS",
 featured: false
 ---
 
-> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/modelscope-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/modelscope-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요: [https://freeaidog.com/ko/](https://freeaidog.com/ko/).
 
 
 # ModelScope API 완전 실측 가이드: 매일 250 모리 무료 추론, 900+ 오픈 모델 직결 및 CORS 지원
@@ -137,3 +137,4 @@ curl -X POST "https://api-inference.modelscope.cn/v1/chat/completions" \
 > 💡 **원문 출처 및 실시간 모니터링**：
 > - 원문 출처: [FreeAI Dog 공식 블로그](https://freeaidog.com/ko/blog/modelscope-api-guide/)
 > - 무료 대형 언어 모델 실시간 가용성 및 지연 시간 측정은 [FreeAI Dog 가용성 레이더](https://freeaidog.com/ko/radar/)에서 확인하세요.
+

@@ -8,7 +8,7 @@ tags: ["Mac-mini", "Apple-Silicon", "Apple-Neural-Engine", "ANE", "ANEMLL", "Qwe
 featured: true
 ---
 
-> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/mac-mini-16g-apple-neural-engine-anemll-qwen-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/zh/blog/mac-mini-16g-apple-neural-engine-anemll-qwen-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站：[https://freeaidog.com/zh/](https://freeaidog.com/zh/)。
 
 
 # 打破32G显存焦虑！16G Mac mini 巧用 Apple Neural Engine (ANE) 零风扇静音跑 7B~14B 大模型：ANEMLL 实操与选型避坑指南
@@ -216,5 +216,6 @@ python3 -m anemll.serve \
 ---
 
 > 💡 **原文首发与实时探活**：
-> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/blog/mac-mini-16g-apple-neural-engine-anemll-qwen-guide/)
-> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/radar/)
+> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/zh/blog/mac-mini-16g-apple-neural-engine-anemll-qwen-guide/)
+> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/zh/radar/)
+

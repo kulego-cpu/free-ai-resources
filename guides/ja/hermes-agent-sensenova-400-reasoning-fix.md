@@ -8,7 +8,7 @@ tags: ["Hermes", "SenseNova", "商湯", "DeepSeek", "APIトラブルシューテ
 featured: true
 ---
 
-> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/hermes-agent-sensenova-400-reasoning-fix/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/hermes-agent-sensenova-400-reasoning-fix/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます：[https://freeaidog.com/ja/](https://freeaidog.com/ja/)。
 
 
 # Hermes Agent 更新後に商湯モデルが使えない？400エラー・謎の429フォールバック・推論フィールド競合の解決記録
@@ -221,3 +221,4 @@ python3 ~/.hermes/scripts/reapply_sensenova_reasoning_patch.py && hermes gateway
 > 💡 **元記事と稼働監視**：
 > - 元記事: [FreeAI Dog 公式ブログ](https://freeaidog.com/ja/blog/hermes-agent-sensenova-400-reasoning-fix/)
 > - 無料AIモデルのリアルタイム稼働状況と遅延データは [FreeAI Dog 可用性レーダー](https://freeaidog.com/ja/radar/) をご覧ください。
+

@@ -8,7 +8,7 @@ tags: ["RTX3090", "GPUUnlock", "Linux内核模块", "BF16", "本地大模型", "
 featured: true
 ---
 
-> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/rtx-3090-gpu-unlock-bf16-kernel-module-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/zh/blog/rtx-3090-gpu-unlock-bf16-kernel-module-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站：[https://freeaidog.com/zh/](https://freeaidog.com/zh/)。
 
 
 # RTX 3090 白嫖 1.9× 算力？Zagitta GPU Unlock 内核模块实操与 LLM 真实收益测评
@@ -161,5 +161,6 @@ sudo dmesg | grep -i "gpu_unlock"
 ---
 
 > 💡 **原文首发与实时探活**：
-> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/blog/rtx-3090-gpu-unlock-bf16-kernel-module-guide/)
-> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/radar/)
+> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/zh/blog/rtx-3090-gpu-unlock-bf16-kernel-module-guide/)
+> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/zh/radar/)
+

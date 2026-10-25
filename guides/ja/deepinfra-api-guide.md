@@ -8,7 +8,7 @@ tags: ["DeepInfra", "業界最安値", "高並行", "オープンソースAI", "
 featured: false
 ---
 
-> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/deepinfra-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/deepinfra-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます：[https://freeaidog.com/ja/](https://freeaidog.com/ja/)。
 
 
 # DeepInfra API 完全攻略ガイド：世界最安水準の従量課金（Llama 8Bが0.02ドル/1M〜）、デフォルト200高並行とCORS完全開放
@@ -127,3 +127,4 @@ OPTIONSプリフライトで `access-control-allow-origin: *` を返却するた
 > 💡 **元記事と稼働監視**：
 > - 元記事: [FreeAI Dog 公式ブログ](https://freeaidog.com/ja/blog/deepinfra-api-guide/)
 > - 無料AIモデルのリアルタイム稼働状況と遅延データは [FreeAI Dog 可用性レーダー](https://freeaidog.com/ja/radar/) をご覧ください。
+

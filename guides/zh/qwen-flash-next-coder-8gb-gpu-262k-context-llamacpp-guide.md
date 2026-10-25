@@ -8,7 +8,7 @@ tags: ["llama.cpp", "Qwen", "代码大模型", "8GB显卡", "RTX4060", "超长�
 featured: true
 ---
 
-> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/qwen-flash-next-coder-8gb-gpu-262k-context-llamacpp-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/zh/blog/qwen-flash-next-coder-8gb-gpu-262k-context-llamacpp-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站：[https://freeaidog.com/zh/](https://freeaidog.com/zh/)。
 
 
 # 千元 8GB 显卡也能硬吃 262K 上下文！llama.cpp 完整分层命令实测 Qwen Flash Next Coder 飙到 70 t/s
@@ -192,5 +192,6 @@ llama.cpp 最新的统一 KV 内存管理机制，避免不同 Slot 槽位碎片
 ---
 
 > 💡 **原文首发与实时探活**：
-> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/blog/qwen-flash-next-coder-8gb-gpu-262k-context-llamacpp-guide/)
-> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/radar/)
+> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/zh/blog/qwen-flash-next-coder-8gb-gpu-262k-context-llamacpp-guide/)
+> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/zh/radar/)
+

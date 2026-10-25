@@ -8,7 +8,7 @@ tags: ["iFLYTEK Spark", "스파크 라이트", "영구 무료", "무제한 토�
 featured: false
 ---
 
-> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/xfyun-spark-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/xfyun-spark-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요: [https://freeaidog.com/ko/](https://freeaidog.com/ko/).
 
 
 # iFLYTEK 스파크 라이트(Spark Lite): 보기 드문 '영구 무료 + 무제한 토큰' 국가지정 LLM
@@ -64,3 +64,4 @@ iFLYTEK 무료 API를 연동할 때는 다음의 엔지니어링 제약 조건�
 > 💡 **원문 출처 및 실시간 모니터링**：
 > - 원문 출처: [FreeAI Dog 공식 블로그](https://freeaidog.com/ko/blog/xfyun-spark-api-guide/)
 > - 무료 대형 언어 모델 실시간 가용성 및 지연 시간 측정은 [FreeAI Dog 가용성 레이더](https://freeaidog.com/ko/radar/)에서 확인하세요.
+

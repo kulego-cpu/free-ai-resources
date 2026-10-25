@@ -8,7 +8,7 @@ tags: ["Google Cloud", "Vertex AI", "Gemini 2.5", "Free Credit", "$300 Trial", "
 featured: false
 ---
 
-> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/google-cloud-vertex-ai-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/blog/google-cloud-vertex-ai-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site: [https://freeaidog.com/](https://freeaidog.com/).
 
 
 # Google Cloud Vertex AI Guide: Claim $300 Free Trial Credit (90 Days), $10/Mo Dev Benefit & $0 Budget Setup
@@ -120,5 +120,6 @@ Google Cloud Vertex AI provides the most substantial cloud compute trial availab
 ---
 
 > 💡 **Source & Live Radar**：
-> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/google-cloud-vertex-ai-guide/)
-> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/blog/google-cloud-vertex-ai-guide/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/radar/)
+

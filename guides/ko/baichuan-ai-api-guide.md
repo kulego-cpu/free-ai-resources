@@ -8,7 +8,7 @@ tags: ["바이촨", "Baichuan AI", "의료 LLM", "무료 혜택", "카드 불필
 featured: false
 ---
 
-> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/baichuan-ai-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/baichuan-ai-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요: [https://freeaidog.com/ko/](https://freeaidog.com/ko/).
 
 
 # 바이촨 AI API 실전 가이드: 80위안 무료 바우처(~500만 토큰), 의료 특화 LLM 및 5 RPM 대응 전략
@@ -132,3 +132,4 @@ OPTIONS 사전 검사 요청 시 `access-control-allow-origin` 헤더는 와일�
 > 💡 **원문 출처 및 실시간 모니터링**：
 > - 원문 출처: [FreeAI Dog 공식 블로그](https://freeaidog.com/ko/blog/baichuan-ai-api-guide/)
 > - 무료 대형 언어 모델 실시간 가용성 및 지연 시간 측정은 [FreeAI Dog 가용성 레이더](https://freeaidog.com/ko/radar/)에서 확인하세요.
+

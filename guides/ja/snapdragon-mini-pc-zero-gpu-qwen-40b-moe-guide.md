@@ -8,7 +8,7 @@ tags: ["Snapdragon", "IdeaCentreMini", "ローカルLLM", "Qwen", "MoE", "エッ
 featured: true
 ---
 
-> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/snapdragon-mini-pc-zero-gpu-qwen-40b-moe-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/snapdragon-mini-pc-zero-gpu-qwen-40b-moe-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます：[https://freeaidog.com/ja/](https://freeaidog.com/ja/)。
 
 
 # 超小型PC2台で95GBの巨大モデルが動く？Lenovo Snapdragon Mini PC ゼロGPU実践ガイド
@@ -207,3 +207,4 @@ flowchart LR
 > 💡 **元記事と稼働監視**：
 > - 元記事: [FreeAI Dog 公式ブログ](https://freeaidog.com/ja/blog/snapdragon-mini-pc-zero-gpu-qwen-40b-moe-guide/)
 > - 無料AIモデルのリアルタイム稼働状況と遅延データは [FreeAI Dog 可用性レーダー](https://freeaidog.com/ja/radar/) をご覧ください。
+

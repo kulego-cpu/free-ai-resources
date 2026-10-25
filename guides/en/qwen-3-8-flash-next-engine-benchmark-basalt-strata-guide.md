@@ -8,7 +8,7 @@ tags: ["Qwen3.8", "FlashNext", "Basalt", "Strata", "llamacpp", "RTX5090", "Local
 featured: true
 ---
 
-> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/qwen-3-8-flash-next-engine-benchmark-basalt-strata-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/blog/qwen-3-8-flash-next-engine-benchmark-basalt-strata-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site: [https://freeaidog.com/](https://freeaidog.com/).
 
 
 # Qwen 3.8 Flash Next Engine Shootout: Basalt Hits 187 t/s vs llama.cpp 39 t/s! 7 Engines Benchmarked with Expert-Skipping Analysis
@@ -157,5 +157,6 @@ If you have an FP4/FP8-capable GPU, try the steps above and run Basalt yourself!
 ---
 
 > 💡 **Source & Live Radar**：
-> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/qwen-3-8-flash-next-engine-benchmark-basalt-strata-guide/)
-> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/blog/qwen-3-8-flash-next-engine-benchmark-basalt-strata-guide/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/radar/)
+

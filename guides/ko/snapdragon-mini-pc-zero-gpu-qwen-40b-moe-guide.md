@@ -8,7 +8,7 @@ tags: ["Snapdragon", "IdeaCentreMini", "로컬LLM", "Qwen", "MoE", "엣지AI", "
 featured: true
 ---
 
-> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/snapdragon-mini-pc-zero-gpu-qwen-40b-moe-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/snapdragon-mini-pc-zero-gpu-qwen-40b-moe-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요: [https://freeaidog.com/ko/](https://freeaidog.com/ko/).
 
 
 # 미니 PC 두 대로 95GB 대형 모델을? 레노버 스냅드래곤 미니 PC 노외장그래픽 실전 가이드
@@ -205,3 +205,4 @@ flowchart LR
 > 💡 **원문 출처 및 실시간 모니터링**：
 > - 원문 출처: [FreeAI Dog 공식 블로그](https://freeaidog.com/ko/blog/snapdragon-mini-pc-zero-gpu-qwen-40b-moe-guide/)
 > - 무료 대형 언어 모델 실시간 가용성 및 지연 시간 측정은 [FreeAI Dog 가용성 레이더](https://freeaidog.com/ko/radar/)에서 확인하세요.
+

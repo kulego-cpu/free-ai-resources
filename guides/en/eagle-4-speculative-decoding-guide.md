@@ -8,7 +8,7 @@ tags: ["EAGLE-4", "Speculative Decoding", "Inference Acceleration", "Qwen", "Loc
 featured: true
 ---
 
-> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/eagle-4-speculative-decoding-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/blog/eagle-4-speculative-decoding-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site: [https://freeaidog.com/](https://freeaidog.com/).
 
 
 # 3.59x Inference Acceleration: EAGLE-4 Speculative Decoding Benchmarks & VRAM/License Pitfalls
@@ -134,5 +134,6 @@ If you don't have a multi-GPU rig and want lightning-fast inference without mana
 ---
 
 > 💡 **Source & Live Radar**：
-> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/eagle-4-speculative-decoding-guide/)
-> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/blog/eagle-4-speculative-decoding-guide/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/radar/)
+

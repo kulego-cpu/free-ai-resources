@@ -8,7 +8,7 @@ tags: ["Cloudflare", "Workers AI", "Llama 3.3", "DeepSeek R1", "Permanent Free",
 featured: false
 ---
 
-> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/cloudflare-workers-ai-api-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/blog/cloudflare-workers-ai-api-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site: [https://freeaidog.com/](https://freeaidog.com/).
 
 
 # Cloudflare Workers AI: 300+ Global Edge Locations, 10,000 Free Neurons/Day & Engineering Gotchas
@@ -175,5 +175,6 @@ Cloudflare Workers AI stands out as a unique pillar in the AI ecosystem:
 ---
 
 > 💡 **Source & Live Radar**：
-> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/cloudflare-workers-ai-api-guide/)
-> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/blog/cloudflare-workers-ai-api-guide/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/radar/)
+

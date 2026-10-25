@@ -8,7 +8,7 @@ tags: ["AMD", "RX9070XT", "RDNA4", "Strata", "Qwen3.8", "FlashNext", "低配大�
 featured: true
 ---
 
-> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/amd-rx-9070-xt-strata-qwen-flash-next-budget-setup/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/zh/blog/amd-rx-9070-xt-strata-qwen-flash-next-budget-setup/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站：[https://freeaidog.com/zh/](https://freeaidog.com/zh/)。
 
 
 # 1600€ 拿下前沿 Flash Next！AMD RX 9070 XT + Strata 跑出 90 t/s：量化避坑与万元装机实测
@@ -192,5 +192,6 @@ NVIDIA 依靠 CUDA 护城河与高昂的定价统治着高端市场，但以 **A
 ---
 
 > 💡 **原文首发与实时探活**：
-> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/blog/amd-rx-9070-xt-strata-qwen-flash-next-budget-setup/)
-> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/radar/)
+> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/zh/blog/amd-rx-9070-xt-strata-qwen-flash-next-budget-setup/)
+> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/zh/radar/)
+

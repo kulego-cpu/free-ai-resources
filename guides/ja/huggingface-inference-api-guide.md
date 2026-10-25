@@ -8,7 +8,7 @@ tags: ["Hugging Face", "Inference Providers", "無料枠", "クレカ不要", "�
 featured: false
 ---
 
-> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/huggingface-inference-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/huggingface-inference-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます：[https://freeaidog.com/ja/](https://freeaidog.com/ja/)。
 
 
 # Hugging Face Inference Providers 徹底解説：毎月 $0.10 無料枠（約200万トークン）、14大推論クラウド統合＆クレカ不要
@@ -135,3 +135,4 @@ Hugging Face の **Inference Providers** は、従来の「単一サーバーで
 > 💡 **元記事と稼働監視**：
 > - 元記事: [FreeAI Dog 公式ブログ](https://freeaidog.com/ja/blog/huggingface-inference-api-guide/)
 > - 無料AIモデルのリアルタイム稼働状況と遅延データは [FreeAI Dog 可用性レーダー](https://freeaidog.com/ja/radar/) をご覧ください。
+

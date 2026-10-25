@@ -8,7 +8,7 @@ tags: ["Google-Gemini", "Gemini-Pro", "学生优惠", "学信网", "SheerID", "G
 featured: true
 ---
 
-> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/google-gemini-1-year-student-pro-sheerid-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/zh/blog/google-gemini-1-year-student-pro-sheerid-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站：[https://freeaidog.com/zh/](https://freeaidog.com/zh/)。
 
 
 # 白嫖价值千元！Gemini 1年免费学生会员与5TB网盘认证指南：学信网过审实操、免税州绑卡与防扣费避坑全流程
@@ -146,5 +146,6 @@ Google 的订阅管理机制非常规范清晰：**提前取消自动续费，�
 ---
 
 > 💡 **原文首发与实时探活**：
-> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/blog/google-gemini-1-year-student-pro-sheerid-guide/)
-> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/radar/)
+> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/zh/blog/google-gemini-1-year-student-pro-sheerid-guide/)
+> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/zh/radar/)
+

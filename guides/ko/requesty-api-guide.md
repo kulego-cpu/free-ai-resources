@@ -8,7 +8,7 @@ tags: ["Requesty", "AI 라우터", "Nemotron", "Gemma 4", "무료 API", "1M 컨�
 featured: false
 ---
 
-> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/requesty-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/requesty-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요: [https://freeaidog.com/ko/](https://freeaidog.com/ko/).
 
 
 # Requesty 완벽 가이드: 업계 최다 일일 200회 무료 호출, $10 가입 보너스, 13개 $0 무료 모델 및 5% 최저 수수료 총정리
@@ -145,3 +145,4 @@ curl OPTIONS 검증 결과 글로벌 및 EU 엔드포인트 모두 `access-contr
 > 💡 **원문 출처 및 실시간 모니터링**：
 > - 원문 출처: [FreeAI Dog 공식 블로그](https://freeaidog.com/ko/blog/requesty-api-guide/)
 > - 무료 대형 언어 모델 실시간 가용성 및 지연 시간 측정은 [FreeAI Dog 가용성 레이더](https://freeaidog.com/ko/radar/)에서 확인하세요.
+

@@ -8,7 +8,7 @@ tags: ["KittenTTS", "TTS", "声音克隆", "1.58bit", "CPU推理", "语音合成
 featured: true
 ---
 
-> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/kitten-tts-2-158bit-cpu-voice-cloning-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/zh/blog/kitten-tts-2-158bit-cpu-voice-cloning-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站：[https://freeaidog.com/zh/](https://freeaidog.com/zh/)。
 
 
 # 老轻薄本也能实时克隆声音？1.58-bit Kitten-TTS 2 纯 CPU 极速实操指南（附小白完整代码）
@@ -217,5 +217,6 @@ audio_jp = tts.generate("本日はご乗車ありがとうございます。", v
 ---
 
 > 💡 **原文首发与实时探活**：
-> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/blog/kitten-tts-2-158bit-cpu-voice-cloning-guide/)
-> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/radar/)
+> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/zh/blog/kitten-tts-2-158bit-cpu-voice-cloning-guide/)
+> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/zh/radar/)
+

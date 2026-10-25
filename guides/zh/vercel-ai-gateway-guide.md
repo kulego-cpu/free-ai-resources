@@ -8,7 +8,7 @@ tags: ["Vercel", "AI Gateway", "0%平台费", "AI SDK", "Next.js", "Gemini 2.5",
 featured: false
 ---
 
-> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/vercel-ai-gateway-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/zh/blog/vercel-ai-gateway-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站：[https://freeaidog.com/zh/](https://freeaidog.com/zh/)。
 
 
 # Vercel AI Gateway 深度实测指南：全网唯一 0% 平台服务费、每月 $5 免费额度、300+ 模型零加价透传与 Next.js AI SDK 原生接入
@@ -138,5 +138,6 @@ Vercel Anycast 边缘节点部署于海外各大骨干数据中心，国内直�
 ---
 
 > 💡 **原文首发与实时探活**：
-> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/blog/vercel-ai-gateway-guide/)
-> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/radar/)
+> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/zh/blog/vercel-ai-gateway-guide/)
+> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/zh/radar/)
+

@@ -8,7 +8,7 @@ tags: ["Hermes", "SenseNova", "商汤日日新", "DeepSeek", "API排障", "踩�
 featured: true
 ---
 
-> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/hermes-agent-sensenova-400-reasoning-fix/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/zh/blog/hermes-agent-sensenova-400-reasoning-fix/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站：[https://freeaidog.com/zh/](https://freeaidog.com/zh/)。
 
 
 # Hermes 升级后商汤模型用不了？记一次从 400 报错、429 自动切到双 reasoning 字段的排坑实录
@@ -219,5 +219,6 @@ python3 ~/.hermes/scripts/reapply_sensenova_reasoning_patch.py && hermes gateway
 ---
 
 > 💡 **原文首发与实时探活**：
-> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/blog/hermes-agent-sensenova-400-reasoning-fix/)
-> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/radar/)
+> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/zh/blog/hermes-agent-sensenova-400-reasoning-fix/)
+> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/zh/radar/)
+

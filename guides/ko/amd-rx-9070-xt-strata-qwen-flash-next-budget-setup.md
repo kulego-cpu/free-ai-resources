@@ -8,7 +8,7 @@ tags: ["AMD", "RX9070XT", "RDNA4", "Strata", "Qwen3.8", "FlashNext", "로컬LLM"
 featured: true
 ---
 
-> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/amd-rx-9070-xt-strata-qwen-flash-next-budget-setup/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/amd-rx-9070-xt-strata-qwen-flash-next-budget-setup/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요: [https://freeaidog.com/ko/](https://freeaidog.com/ko/).
 
 
 # 1600유로로 최전선 Flash Next 정복! AMD RX 9070 XT + Strata로 90 t/s 달성: 양자화 함정과 가성비 조립 실측 가이드
@@ -190,3 +190,4 @@ DDR4 대역폭 한계로 Atomic Q4 기준 속도는 **30 ~ 45 tokens/s** 수준�
 > 💡 **원문 출처 및 실시간 모니터링**：
 > - 원문 출처: [FreeAI Dog 공식 블로그](https://freeaidog.com/ko/blog/amd-rx-9070-xt-strata-qwen-flash-next-budget-setup/)
 > - 무료 대형 언어 모델 실시간 가용성 및 지연 시간 측정은 [FreeAI Dog 가용성 레이더](https://freeaidog.com/ko/radar/)에서 확인하세요.
+

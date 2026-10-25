@@ -8,7 +8,7 @@ tags: ["AMD", "RX9070XT", "RDNA4", "Strata", "Qwen3.8", "FlashNext", "ローカ�
 featured: true
 ---
 
-> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/amd-rx-9070-xt-strata-qwen-flash-next-budget-setup/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/amd-rx-9070-xt-strata-qwen-flash-next-budget-setup/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます：[https://freeaidog.com/ja/](https://freeaidog.com/ja/)。
 
 
 # 1600ユーロで最前線Flash Nextを制覇！AMD RX 9070 XT ＋ Strataで90 t/sを叩き出す：量子化の罠とコスパ自作PC実測ガイド
@@ -188,3 +188,4 @@ DDR4メモリ帯域の制約により速度はAtomic Q4で **30〜45 tokens/秒*
 > 💡 **元記事と稼働監視**：
 > - 元記事: [FreeAI Dog 公式ブログ](https://freeaidog.com/ja/blog/amd-rx-9070-xt-strata-qwen-flash-next-budget-setup/)
 > - 無料AIモデルのリアルタイム稼働状況と遅延データは [FreeAI Dog 可用性レーダー](https://freeaidog.com/ja/radar/) をご覧ください。
+

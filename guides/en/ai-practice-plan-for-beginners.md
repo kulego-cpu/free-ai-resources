@@ -8,7 +8,7 @@ tags: ["Prompt Engineering", "AI Workflows", "Beginner Guide", "Deep Thinking", 
 featured: true
 ---
 
-> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/ai-practice-plan-for-beginners/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/blog/ai-practice-plan-for-beginners/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site: [https://freeaidog.com/](https://freeaidog.com/).
 
 
 # Stop Treating AI as a Toy: The 7-Day Single-Project Mastery Sprint for Beginners
@@ -253,5 +253,6 @@ Mastering AI is not about memorizing complex prompt incantations; it is about **
 ---
 
 > 💡 **Source & Live Radar**：
-> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/ai-practice-plan-for-beginners/)
-> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/blog/ai-practice-plan-for-beginners/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/radar/)
+

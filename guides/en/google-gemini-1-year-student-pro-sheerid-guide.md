@@ -8,7 +8,7 @@ tags: ["Google-Gemini", "Gemini-Pro", "Student-Discount", "SheerID", "Google-One
 featured: true
 ---
 
-> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/google-gemini-1-year-student-pro-sheerid-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/blog/google-gemini-1-year-student-pro-sheerid-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site: [https://freeaidog.com/](https://freeaidog.com/).
 
 
 # Claim a $240 Value! Google Gemini 1-Year Free Student AI Pro & 5TB Cloud Storage Verification Guide
@@ -123,5 +123,6 @@ Beyond the standard web interface, you can harness your Gemini subscription for 
 ---
 
 > 💡 **Source & Live Radar**：
-> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/google-gemini-1-year-student-pro-sheerid-guide/)
-> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/blog/google-gemini-1-year-student-pro-sheerid-guide/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/radar/)
+

@@ -8,7 +8,7 @@ tags: ["KittenTTS", "TTS", "VoiceCloning", "1.58bit", "CPUInference", "SpeechSyn
 featured: true
 ---
 
-> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/kitten-tts-2-158bit-cpu-voice-cloning-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/blog/kitten-tts-2-158bit-cpu-voice-cloning-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site: [https://freeaidog.com/](https://freeaidog.com/).
 
 
 # Real-Time Voice Cloning on an Old Laptop? Hands-on Kitten-TTS 2 Guide (1.58-bit Pure CPU)
@@ -217,5 +217,6 @@ Grab a 5-second voice sample, run the script, and hear your own AI voice clone t
 ---
 
 > 💡 **Source & Live Radar**：
-> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/kitten-tts-2-158bit-cpu-voice-cloning-guide/)
-> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/blog/kitten-tts-2-158bit-cpu-voice-cloning-guide/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/radar/)
+

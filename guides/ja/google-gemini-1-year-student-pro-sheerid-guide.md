@@ -8,7 +8,7 @@ tags: ["Google-Gemini", "Gemini-Pro", "学生割引", "SheerID", "Google-One", "
 featured: true
 ---
 
-> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/google-gemini-1-year-student-pro-sheerid-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/google-gemini-1-year-student-pro-sheerid-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます：[https://freeaidog.com/ja/](https://freeaidog.com/ja/)。
 
 
 # 年間約3万円分が完全無料！Gemini 1年無料学生プラン＆5TBクラウド認証完全攻略ガイド
@@ -116,3 +116,4 @@ Googleの学割審査は外部機関「SheerID」を通じて行われます。
 > 💡 **元記事と稼働監視**：
 > - 元記事: [FreeAI Dog 公式ブログ](https://freeaidog.com/ja/blog/google-gemini-1-year-student-pro-sheerid-guide/)
 > - 無料AIモデルのリアルタイム稼働状況と遅延データは [FreeAI Dog 可用性レーダー](https://freeaidog.com/ja/radar/) をご覧ください。
+

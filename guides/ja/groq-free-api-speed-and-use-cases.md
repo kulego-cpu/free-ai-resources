@@ -8,7 +8,7 @@ tags: ["Groq", "無料API", "LPU", "没入型翻訳", "Whisper", "実測レビ�
 featured: true
 ---
 
-> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/groq-free-api-speed-and-use-cases/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/groq-free-api-speed-and-use-cases/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます：[https://freeaidog.com/ja/](https://freeaidog.com/ja/)。
 
 
 # 圧倒的な速度差：なぜ開発者全員がGroqキーを持つべきなのか？
@@ -140,3 +140,4 @@ Groqは万能の万能薬ではありませんが、AIツールキットの中�
 > 💡 **元記事と稼働監視**：
 > - 元記事: [FreeAI Dog 公式ブログ](https://freeaidog.com/ja/blog/groq-free-api-speed-and-use-cases/)
 > - 無料AIモデルのリアルタイム稼働状況と遅延データは [FreeAI Dog 可用性レーダー](https://freeaidog.com/ja/radar/) をご覧ください。
+

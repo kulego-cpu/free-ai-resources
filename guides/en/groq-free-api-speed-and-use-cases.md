@@ -8,7 +8,7 @@ tags: ["Groq", "Free API", "LPU", "Immersive Translate", "Whisper", "Performance
 featured: true
 ---
 
-> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/groq-free-api-speed-and-use-cases/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/blog/groq-free-api-speed-and-use-cases/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site: [https://freeaidog.com/](https://freeaidog.com/).
 
 
 # The Dimensional Strike of Speed: Why Every Developer Needs a Groq Key
@@ -138,5 +138,6 @@ In just 30 seconds, you can register your key and integrate it into your transla
 ---
 
 > 💡 **Source & Live Radar**：
-> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/groq-free-api-speed-and-use-cases/)
-> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/blog/groq-free-api-speed-and-use-cases/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/radar/)
+

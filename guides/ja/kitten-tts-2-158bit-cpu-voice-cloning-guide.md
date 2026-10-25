@@ -8,7 +8,7 @@ tags: ["KittenTTS", "TTS", "音声クローン", "1.58bit", "CPU推論", "音声
 featured: true
 ---
 
-> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/kitten-tts-2-158bit-cpu-voice-cloning-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/kitten-tts-2-158bit-cpu-voice-cloning-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます：[https://freeaidog.com/ja/](https://freeaidog.com/ja/)。
 
 
 # 型落ちノートPCでリアルタイム音声クローン？1.58-bit Kitten-TTS 2 纯CPU実践ガイド
@@ -204,3 +204,4 @@ audio = tts.generate(happy_text, reference="my_voice.wav")
 > 💡 **元記事と稼働監視**：
 > - 元記事: [FreeAI Dog 公式ブログ](https://freeaidog.com/ja/blog/kitten-tts-2-158bit-cpu-voice-cloning-guide/)
 > - 無料AIモデルのリアルタイム稼働状況と遅延データは [FreeAI Dog 可用性レーダー](https://freeaidog.com/ja/radar/) をご覧ください。
+

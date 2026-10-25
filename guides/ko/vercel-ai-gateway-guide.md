@@ -8,7 +8,7 @@ tags: ["Vercel", "AI Gateway", "수수료0%", "AI SDK", "Next.js", "Gemini 2.5",
 featured: false
 ---
 
-> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/vercel-ai-gateway-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/vercel-ai-gateway-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요: [https://freeaidog.com/ko/](https://freeaidog.com/ko/).
 
 
 # Vercel AI Gateway 완벽 가이드: 업계 유일 0% 수수료, 매월 $5 무료 크레딧, 300+ 모델 원가 제공 및 Next.js AI SDK 연동
@@ -140,3 +140,4 @@ Vercel의 Anycast 엣지 노드는 해외 데이터센터에 위치해 있으므
 > 💡 **원문 출처 및 실시간 모니터링**：
 > - 원문 출처: [FreeAI Dog 공식 블로그](https://freeaidog.com/ko/blog/vercel-ai-gateway-guide/)
 > - 무료 대형 언어 모델 실시간 가용성 및 지연 시간 측정은 [FreeAI Dog 가용성 레이더](https://freeaidog.com/ko/radar/)에서 확인하세요.
+

@@ -8,7 +8,7 @@ tags: ["百川知能", "Baichuan", "医療AI", "無料枠", "クレカ不要", "
 featured: false
 ---
 
-> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/baichuan-ai-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/baichuan-ai-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます：[https://freeaidog.com/ja/](https://freeaidog.com/ja/)。
 
 
 # 百川知能 Baichuan AI 実践ガイド：80元無料クーポン（約500万トークン）・医療特化モデル・5 RPM制限対策
@@ -130,3 +130,4 @@ CORSのOPTIONSプリフライトにおいて、`access-control-allow-origin: *` 
 > 💡 **元記事と稼働監視**：
 > - 元記事: [FreeAI Dog 公式ブログ](https://freeaidog.com/ja/blog/baichuan-ai-api-guide/)
 > - 無料AIモデルのリアルタイム稼働状況と遅延データは [FreeAI Dog 可用性レーダー](https://freeaidog.com/ja/radar/) をご覧ください。
+

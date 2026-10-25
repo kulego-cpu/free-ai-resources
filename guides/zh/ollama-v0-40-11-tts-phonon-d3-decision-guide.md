@@ -8,7 +8,7 @@ tags: ["Ollama", "本地大模型", "TTS语音合成", "d3决策模型", "AI-Age
 featured: true
 ---
 
-> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/ollama-v0-40-11-tts-phonon-d3-decision-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/zh/blog/ollama-v0-40-11-tts-phonon-d3-decision-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站：[https://freeaidog.com/zh/](https://freeaidog.com/zh/)。
 
 
 # 一个 CLI 搞定对话+意图决策+语音合成！Ollama v0.40.11 重磅升级实测：内置 Phonon 语音合成与 d3 语义路由保姆级实战
@@ -273,5 +273,6 @@ Ollama 这次 v0.40.11 的迭代，彻底宣告了**“本地 AI 不再只是冰
 ---
 
 > 💡 **原文首发与实时探活**：
-> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/blog/ollama-v0-40-11-tts-phonon-d3-decision-guide/)
-> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/radar/)
+> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/zh/blog/ollama-v0-40-11-tts-phonon-d3-decision-guide/)
+> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/zh/radar/)
+

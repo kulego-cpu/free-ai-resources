@@ -8,7 +8,7 @@ tags: ["Ollama", "Flint", "MoE", "代码大模型", "本地大模型", "VSCode",
 featured: true
 ---
 
-> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/ollama-flint-40b-moe-coding-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/zh/blog/ollama-flint-40b-moe-coding-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站：[https://freeaidog.com/zh/](https://freeaidog.com/zh/)。
 
 
 # Ollama v0.40.8 首发！40B 编码神模型 Flint 一键本地跑：激活仅 2.5B，SWE-bench 74.2% 越级实测
@@ -186,5 +186,6 @@ Flint 的出现向开源社区证明了一点：**盲目堆砌参数量的时代
 ---
 
 > 💡 **原文首发与实时探活**：
-> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/blog/ollama-flint-40b-moe-coding-guide/)
-> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/radar/)
+> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/zh/blog/ollama-flint-40b-moe-coding-guide/)
+> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/zh/radar/)
+

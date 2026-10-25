@@ -8,7 +8,7 @@ tags: ["Vercel", "AI Gateway", "0% Markup", "AI SDK", "Next.js", "Gemini 2.5", "
 featured: false
 ---
 
-> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/vercel-ai-gateway-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/blog/vercel-ai-gateway-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site: [https://freeaidog.com/](https://freeaidog.com/).
 
 
 # Vercel AI Gateway Developer Guide: 0% Platform Fee, $5 Monthly Credits, 300+ Models with Zero Markup & AI SDK Integration
@@ -138,5 +138,6 @@ Vercel Anycast edge nodes operate across international data centers. For product
 ---
 
 > 💡 **Source & Live Radar**：
-> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/vercel-ai-gateway-guide/)
-> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/blog/vercel-ai-gateway-guide/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/radar/)
+

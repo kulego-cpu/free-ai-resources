@@ -8,7 +8,7 @@ tags: ["SiliconFlow", "DeepSeek", "Free Voucher", "Setup Guide", "Zero Cost"]
 featured: true
 ---
 
-> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/siliconflow-voucher-tips/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/blog/siliconflow-voucher-tips/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site: [https://freeaidog.com/](https://freeaidog.com/).
 
 
 # SiliconFlow (SiliconCloud): China's Top Open-Source LLM Inference Hub
@@ -148,5 +148,6 @@ Connect your SiliconFlow key in [FreeAI Dog](https://freeaidog.com) to enjoy uni
 ---
 
 > 💡 **Source & Live Radar**：
-> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/siliconflow-voucher-tips/)
-> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/blog/siliconflow-voucher-tips/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/radar/)
+

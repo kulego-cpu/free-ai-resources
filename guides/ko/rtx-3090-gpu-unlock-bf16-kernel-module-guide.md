@@ -8,7 +8,7 @@ tags: ["RTX3090", "GPUUnlock", "Linux커널", "BF16", "로컬LLM", "하드웨어
 featured: true
 ---
 
-> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/rtx-3090-gpu-unlock-bf16-kernel-module-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/rtx-3090-gpu-unlock-bf16-kernel-module-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요: [https://freeaidog.com/ko/](https://freeaidog.com/ko/).
 
 
 # RTX 3090 연산 성능 1.9배 무료 해금? Zagitta GPU Unlock 커널 모듈 실측 및 LLM 실제 체감 성능
@@ -155,3 +155,4 @@ sudo dmesg | grep -i "gpu_unlock"
 > 💡 **원문 출처 및 실시간 모니터링**：
 > - 원문 출처: [FreeAI Dog 공식 블로그](https://freeaidog.com/ko/blog/rtx-3090-gpu-unlock-bf16-kernel-module-guide/)
 > - 무료 대형 언어 모델 실시간 가용성 및 지연 시간 측정은 [FreeAI Dog 가용성 레이더](https://freeaidog.com/ko/radar/)에서 확인하세요.
+

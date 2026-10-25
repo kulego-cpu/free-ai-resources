@@ -8,7 +8,7 @@ tags: ["Ollama", "Flint", "MoE", "コード生成AI", "ローカルLLM", "VSCode
 featured: true
 ---
 
-> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/ollama-flint-40b-moe-coding-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/ollama-flint-40b-moe-coding-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます：[https://freeaidog.com/ja/](https://freeaidog.com/ja/)。
 
 
 # Ollama v0.40.8でRecursive Flint登場！40B MoE（活性2.5B）をコマンド1発でローカル実行：SWE-bench 74.2%の衝撃
@@ -172,3 +172,4 @@ Flintは「パラメータ数を無駄に増やす時代が終わり、スパー
 > 💡 **元記事と稼働監視**：
 > - 元記事: [FreeAI Dog 公式ブログ](https://freeaidog.com/ja/blog/ollama-flint-40b-moe-coding-guide/)
 > - 無料AIモデルのリアルタイム稼働状況と遅延データは [FreeAI Dog 可用性レーダー](https://freeaidog.com/ja/radar/) をご覧ください。
+
