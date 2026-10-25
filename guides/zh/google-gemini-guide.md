@@ -8,6 +8,9 @@ tags: ["Google", "Gemini", "永久免费", "新手教程"]
 featured: true
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/google-gemini-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # 为什么 Google Gemini 是目前全球最香的免费 API？
 
 在所有提供免费大模型额度的国际巨头中，Google 的 **Google AI Studio** 是目前对普通开发者和个人爱好者最慷慨的平台：

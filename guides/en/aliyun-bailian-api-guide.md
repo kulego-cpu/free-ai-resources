@@ -8,6 +8,9 @@ tags: ["Alibaba Cloud Bailian", "Qwen", "Qwen 3.8", "Free Tier", "Stop on Exhaus
 featured: false
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/aliyun-bailian-api-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # Alibaba Cloud Bailian: 1M Free Tokens Across 80+ Models, China's Largest Welcome Package
 
 Within the Chinese AI ecosystem, **Alibaba Cloud Bailian (Model Studio)** is renowned for its comprehensive model catalog and robust infrastructure.

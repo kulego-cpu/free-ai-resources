@@ -8,6 +8,9 @@ tags: ["Cerebras", "gpt-oss-120b", "ウエハー規模チップ", "3000tps", "�
 featured: false
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/cerebras-cloud-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # Cerebras Cloud：世界最速のウエハー規模推論エンジン実測＆ $5 試用クレジット活用ガイド
 
 Groq が LPU チップによって 500 tokens/s のタイプライター速度を実証したのに対し、シリコンバレーの先端超並列コンピューティング企業 **Cerebras Systems** が提供する **Cerebras Cloud Inference** は、その速度をさらに極限へと押し上げました。その実効速度はなんと **1,800 〜 3,000 tokens/秒！**

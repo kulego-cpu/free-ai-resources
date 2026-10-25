@@ -8,6 +8,9 @@ tags: ["Ollama", "本地大模型", "TTS语音合成", "d3决策模型", "AI-Age
 featured: true
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/ollama-v0-40-11-tts-phonon-d3-decision-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # 一个 CLI 搞定对话+意图决策+语音合成！Ollama v0.40.11 重磅升级实测：内置 Phonon 语音合成与 d3 语义路由保姆级实战
 
 > **导读**：经常在本地折腾 AI Agent、智能家居语音助理或者客服机器人的兄弟们，肯定深有体会——过去想要搭建一套完整的“听、想、判、说”本地闭环系统，简直是一场运维灾难：  

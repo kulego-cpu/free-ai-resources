@@ -8,6 +8,9 @@ tags: ["Hermes", "SenseNova", "商汤日日新", "DeepSeek", "API排障", "踩�
 featured: true
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/hermes-agent-sensenova-400-reasoning-fix/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # Hermes 升级后商汤模型用不了？记一次从 400 报错、429 自动切到双 reasoning 字段的排坑实录
 
 平时小可一直用 Nous Research 的 **Hermes Agent** 当主力智能体，底座接的是**商汤日日新（SenseNova 6.8 Flash Lite）**——毕竟官方白送的 token 量大管饱，还有 256K 超大上下文，日常写脚本、跑自动化都特别顺手。

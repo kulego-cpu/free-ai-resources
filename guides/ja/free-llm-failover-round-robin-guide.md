@@ -8,6 +8,9 @@ tags: ["高可用性", "APIゲートウェイ", "429対策", "Cloudflare Worker"
 featured: true
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/free-llm-failover-round-robin-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # 課題：なぜ無料AI APIは本番利用で頻繁に停止するのか？
 
 現在、各AIクラウドベンダーは開発者獲得のために非常に手厚い無料API枠を提供しています（例：Google AI Studioによる1日1,500リクエスト、Groqの超高速推論、SiliconFlowの無料オープンソースモデル枠など）。

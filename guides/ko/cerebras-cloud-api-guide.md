@@ -8,6 +8,9 @@ tags: ["Cerebras", "gpt-oss-120b", "웨이퍼칩", "3000tps", "초고속추론",
 featured: false
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/cerebras-cloud-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # Cerebras Cloud: 세계 최고속 웨이퍼 스케일 추론 엔진 실측 및 $5 체험권 가이드
 
 Groq이 LPU 칩을 통해 초당 500 토큰의 속도로 타이핑 혁신을 보여주었다면, 실리콘밸리의 웨이퍼 스케일 슈퍼컴퓨팅 기업 **Cerebras Systems**가 선보인 **Cerebras Cloud Inference**는 그 속도를 물리적 극한인 **초당 1,800 ~ 3,000 토큰**까지 끌어올렸습니다.

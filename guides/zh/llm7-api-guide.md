@@ -8,6 +8,9 @@ tags: ["LLM7.io", "GPT-4o-mini", "免费额度", "免绑卡", "免注册", "Deep
 featured: false
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/llm7-api-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # LLM7.io API 深度实测指南：全网唯一免费白嫖 GPT-4o-mini、每日 100K Tokens 滚动刷新、免注册调用与 CORS 完全开放
 
 在海量主打“免费开源大模型”的聚合平台（如 OpenRouter、Hugging Face、Together 等）中，绝大多数厂商提供的免费层模型都严格限定在 Llama、Qwen、Mistral 等开源权重。想要免费体验闭源大厂的顶尖模型，向来极为困难。

@@ -8,6 +8,9 @@ tags: ["SenseTime", "SenseNova", "Points System", "Beta Perks"]
 featured: false
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/sensenova-points-strategy/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # SenseNova: A Gaming-Style Auto-Regenerating Stamina Free Tier
 
 SenseTime's flagship LLM platform **SenseNova** is currently running its **Token Plan Free Public Beta**. Its free tier mechanism stands out from almost every other AI vendor: **an automated dual-pool stamina regeneration system**.

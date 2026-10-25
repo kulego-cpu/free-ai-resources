@@ -8,6 +8,9 @@ tags: ["AMD", "RX9070XT", "RDNA4", "Strata", "Qwen3.8", "FlashNext", "LocalLLM",
 featured: true
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/amd-rx-9070-xt-strata-qwen-flash-next-budget-setup/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # Run Frontier Flash Next for €1600! AMD RX 9070 XT + Strata Hits 90 t/s: Quantization Tradeoffs & Budget Build Guide
 
 When exploring local setups for massive 125B parameter Mixture-of-Experts (MoE) models, most hardware guides deliver the same intimidating verdict:

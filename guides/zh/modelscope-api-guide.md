@@ -8,6 +8,9 @@ tags: ["ModelScope", "魔搭社区", "通义千问", "DeepSeek", "开源模型",
 featured: false
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/modelscope-api-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # ModelScope 魔搭社区 API 实测指南：每日 250 魔粒免费算力、900+ 开源模型免绑卡直连与 CORS 避坑
 
 在当今中国大模型开源生态中，由阿里巴巴联合多家顶尖科研机构与企业共同发起的 **ModelScope（魔搭社区）**，已成为国内公认规模最大、模型覆盖最全的开源社区平台。从阿里自研的通义千问（Qwen）全系列，到现象级爆款 DeepSeek-V3 / R1，再到智谱 GLM、百川与 MiniMax，平台上汇聚了超过数千个高水准模型权重。

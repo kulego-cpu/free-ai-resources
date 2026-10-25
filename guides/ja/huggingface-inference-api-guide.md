@@ -8,6 +8,9 @@ tags: ["Hugging Face", "Inference Providers", "無料枠", "クレカ不要", "�
 featured: false
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/huggingface-inference-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # Hugging Face Inference Providers 徹底解説：毎月 $0.10 無料枠（約200万トークン）、14大推論クラウド統合＆クレカ不要
 
 世界の人工知能およびオープンソース機械学習の中心地といえば、言わずと知れた **Hugging Face（huggingface.co）** です。Meta の Llama 3、通義千問 Qwen 2.5、DeepSeek-R1 など、世界トップクラスの最新オープン重みは常に Hugging Face Hub 上で最速公開されています。

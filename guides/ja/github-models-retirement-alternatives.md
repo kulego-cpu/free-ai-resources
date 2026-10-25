@@ -8,6 +8,9 @@ tags: ["GitHub Models", "停服退役", "クレカ不要", "代替推奨", "Deep
 featured: true
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/github-models-retirement-alternatives/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # GitHub Models 正式退役：マイクロソフトによる停服の背景と2026年最新代替サービス5選
 
 MicrosoftおよびGitHubは、**GitHub Modelsが2026年7月30日をもって完全に退役・サービス終了（Fully Retired）したこと**を公式発表しました。
@@ -59,3 +62,9 @@ MicrosoftおよびGitHubは、**GitHub Modelsが2026年7月30日をもって完�
 1. **旧エンドポイントの削除**：プロジェクト内の `models.inference.ai.azure.com` 設定および旧GitHub PATを削除；
 2. **代替Keyの取得**：[FreeAI Dog プロバイダーハブ](https://freeaidog.com/api/) からBaidu千帆、Google AI Studio、またはSenseNovaの無料Keyを取得；
 3. **クライアントの設定更新**：NextChat、ChatBox、Cursor等のBase URLとKeyを差し替えるだけで、即座に推論を再開できます！
+
+---
+
+> 💡 **元記事と稼働監視**：
+> - 元記事: [FreeAI Dog 公式ブログ](https://freeaidog.com/ja/blog/github-models-retirement-alternatives/)
+> - 無料AIモデルのリアルタイム稼働状況と遅延データは [FreeAI Dog 可用性レーダー](https://freeaidog.com/ja/radar/) をご覧ください。

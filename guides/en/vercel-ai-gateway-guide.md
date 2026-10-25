@@ -8,6 +8,9 @@ tags: ["Vercel", "AI Gateway", "0% Markup", "AI SDK", "Next.js", "Gemini 2.5", "
 featured: false
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/vercel-ai-gateway-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # Vercel AI Gateway Developer Guide: 0% Platform Fee, $5 Monthly Credits, 300+ Models with Zero Markup & AI SDK Integration
 
 In the modern AI gateway and model routing landscape, middleware services typically charge a 5% to 10% markup or impose steep monthly subscriptions. **Vercel**, the leading frontend cloud platform, completely disrupts this dynamic with **Vercel AI Gateway**: **the industry's only gateway offering a 0% platform fee, passing through upstream token prices at 100% list price!**

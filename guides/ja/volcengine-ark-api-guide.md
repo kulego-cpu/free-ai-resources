@@ -8,6 +8,9 @@ tags: ["火山引擎", "火山方舟", "豆包", "Doubao", "DeepSeek", "安心�
 featured: false
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/volcengine-ark-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # 火山方舟（Volcengine Ark）完全実測ガイド：各モデル50万トークン無料枠、安心体験モード課金防止＆極速レスポンス
 
 中国のエンタープライズAIクラウドにおいて、ByteDance（バイトダンス）が展開する **火山方舟（Volcengine Ark）** は、自社開発の「豆包（Doubao）」モデルファミリー、BGPバックボーン直結の高速ネットワーク、そして極めて手頃な利用料金により、爆発的な普及を見せています。

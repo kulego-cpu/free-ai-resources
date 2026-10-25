@@ -8,6 +8,9 @@ tags: ["ModelScope", "알리바바", "Qwen", "DeepSeek", "오픈소스", "CORS",
 featured: false
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/modelscope-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # ModelScope API 완전 실측 가이드: 매일 250 모리 무료 추론, 900+ 오픈 모델 직결 및 CORS 지원
 
 중국 오픈소스 대형 언어 모델 생태계에서 알리바바 클라우드가 유수 연구기관과 함께 설립한 **ModelScope(모따 커뮤니티)** 는 가장 방대한 모델 규모와 사용자 풀을 보유한 대표적인 오픈 모델 허브입니다. 알리바바의 플래그십 통이치엔원(Qwen) 시리즈 전 모델은 물론, 글로벌 인기를 누리는 DeepSeek-V3 / R1, 지푸 GLM, 바이촨, MiniMax 등 수천 개의 오픈 가중치가 집중되어 있습니다.

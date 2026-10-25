@@ -8,6 +8,9 @@ tags: ["Ollama", "Local LLM", "TTS", "Speech Synthesis", "d3 Decision Model", "A
 featured: true
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/ollama-v0-40-11-tts-phonon-d3-decision-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # One CLI for Chat, Decisions, and Voice! Ollama v0.40.11 Deep Dive: Built-in Phonon TTS & d3 Routing Guide
 
 > **Executive Summary**: Anyone who has tried building local AI agents, home voice assistants, or automated bots knows the architectural headache:  

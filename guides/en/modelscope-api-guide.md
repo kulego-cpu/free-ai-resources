@@ -8,6 +8,9 @@ tags: ["ModelScope", "Alibaba", "Qwen", "DeepSeek", "OpenSource", "CORS", "Daily
 featured: false
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/modelscope-api-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # ModelScope API Evaluation: 250 MoLi Daily Free Allowance, 900+ Open Models, Mainland Direct Connection & Native CORS
 
 In China's thriving open-source AI ecosystem, **ModelScope**, initiated by Alibaba Cloud alongside prominent research institutes and industry partners, stands as the nation's premier open model hub. The platform hosts thousands of cutting-edge open weights ranging from Alibaba's flagship Qwen series to the globally renowned DeepSeek-V3 and R1, alongside Zhipu GLM, Baichuan, and MiniMax.

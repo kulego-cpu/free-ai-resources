@@ -8,6 +8,9 @@ tags: ["llama.cpp", "Qwen", "コーディングLLM", "8GBグラボ", "RTX4060", 
 featured: true
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/qwen-flash-next-coder-8gb-gpu-262k-context-llamacpp-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # 8GBグラボで262K超長コンテキストが70 tok/sで爆速駆動！llama.cpp階層Offload実戦ガイド
 
 > **はじめに**：ローカルでLLMを動かす開発者を悩ませる最大の壁、それが「VRAM不足」です。

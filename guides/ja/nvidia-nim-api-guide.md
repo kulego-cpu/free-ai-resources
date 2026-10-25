@@ -8,6 +8,9 @@ tags: ["NVIDIA NIM", "NVIDIA", "Llama 405B", "Nemotron", "DeepSeek R1", "OpenAI�
 featured: false
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/nvidia-nim-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # NVIDIA NIM：NVIDIA原廠クラウド算力、1,000クレジット体験と402停止の真実
 
 世界中のAIモデルプロバイダーの中でも、GPU大手NVIDIAが提供する **NVIDIA NIM (NVIDIA Inference Microservice)** は、開発者の間で常に高い注目を集めています。

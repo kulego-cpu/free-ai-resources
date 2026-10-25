@@ -8,6 +8,9 @@ tags: ["商汤", "SenseNova", "积分制", "公测福利"]
 featured: false
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/sensenova-points-strategy/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # 商汤日日新：像玩游戏一样“定时回血”的神仙机制
 
 商汤科技（SenseTime）的「日日新 SenseNova」大模型开放平台目前正处于 **Token Plan 免费公测阶段**。它的免费机制在国内所有大模型厂商中独树一帜：**双积分池体力自动恢复制**。

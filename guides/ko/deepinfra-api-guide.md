@@ -8,6 +8,9 @@ tags: ["DeepInfra", "최저가 요금", "고동시성", "오픈소스 LLM", "Lla
 featured: false
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/deepinfra-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # DeepInfra API 실전 가이드: 업계 최저가 종량제 (Llama 8B 100만 토큰당 $0.02부터), 200 고동시성 및 CORS 완전 개방
 
 오픈소스 대형 모델과 GPU 클라우드 추론 분야에서 **"단가가 가장 저렴하고 비용 대비 처리량이 압도적인 플랫폼"**을 꼽으라면 북미 기반의 **DeepInfra(deepinfra.com)**가 단연 최상위권에 자리합니다.

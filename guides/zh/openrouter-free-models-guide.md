@@ -8,6 +8,9 @@ tags: ["OpenRouter", "免费模型", "智能路由", "免绑卡", "CORS开放", 
 featured: false
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/openrouter-free-models-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # OpenRouter 免费专区深度指南：24 款官方 :free 满血模型、每日 50 次重置、CORS 完全开放与 10 刀升级秘籍
 
 在当前大模型百花齐放的格局下，开发者最大的痛点往往不是缺少好模型，而是**模型分散在数十家不同的云厂商平台**：每个平台都要单独注册、单独绑定支付方式、维护各自的 API Key 与 Base URL，极易造成项目架构混乱。
@@ -160,3 +163,9 @@ access-control-allow-origin: *
 - 🎯 **推荐人群**：需要在一个界面体验几十种模型的前端工程师、学生与科研人员、跨模型对比评测团队。
 - 💡 **最佳组合**：代码任务用 `cohere/north-mini-code:free`，长文分析用 `minimax/minimax-m3.1-flash:free`，通用问答用 `google/gemma-4-31b-it:free` 或 `openrouter/free`。
 - 🚀 **立即开启**：访问 [OpenRouter 控制台 Keys 页面](https://openrouter.ai/settings/keys) 领取专属免费密钥，即刻畅游全球大模型生态！
+
+---
+
+> 💡 **原文首发与实时探活**：
+> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/blog/openrouter-free-models-guide/)
+> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/radar/)

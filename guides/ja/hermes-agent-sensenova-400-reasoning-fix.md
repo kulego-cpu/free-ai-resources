@@ -8,6 +8,9 @@ tags: ["Hermes", "SenseNova", "商湯", "DeepSeek", "APIトラブルシューテ
 featured: true
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/hermes-agent-sensenova-400-reasoning-fix/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # Hermes Agent 更新後に商湯モデルが使えない？400エラー・謎の429フォールバック・推論フィールド競合の解決記録
 
 普段、小可（シャオコー）は Nous Research 製の自律型エージェント **Hermes Agent** を愛用しており、バックエンドには**商湯（SenseNova 6.8 Flash Lite）**を接続しています。無料枠のトークンが潤沢で、256K の超大容量コンテキストを備え、安定したスループットが出るため、日常のスクリプト生成や自動化タスクの相棒として重宝していました。

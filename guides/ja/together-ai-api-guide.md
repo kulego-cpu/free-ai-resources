@@ -8,6 +8,9 @@ tags: ["Together AI", "FLUX.1", "AI画像生成", "無料枠", "オープンソ�
 featured: false
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/together-ai-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # Together AI API 完全攻略ガイド：FLUX.1 画像生成が無制限・完全無料、言語モデル無料枠終了と15ドル最低チャージ制の真相
 
 北米の最先端GPUクラウド基盤として世界中のエンジニアから絶大な信頼を集める **Together AI（together.ai）** は、万基規模の最新GPUクラスタによる高スループット推論と、最新オープンモデルの最速ホスティングで知られています。

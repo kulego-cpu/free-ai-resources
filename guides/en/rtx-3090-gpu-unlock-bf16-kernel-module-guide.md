@@ -8,6 +8,9 @@ tags: ["RTX3090", "GPUUnlock", "LinuxKernel", "BF16", "LocalLLM", "ComputeOptimi
 featured: true
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/rtx-3090-gpu-unlock-bf16-kernel-module-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # Free 1.9x Compute on RTX 3090? Zagitta's GPU Unlock Kernel Module Tested on Real LLMs
 
 For local LLM tinkerers, the **RTX 3090 (24GB VRAM)** has long been the gold standard for budget workstations. I have two of them running in my daily driver rig for local inference, fine-tuning, and testing small models.

@@ -8,6 +8,9 @@ tags: ["Mistral AI", "Codestral", "Mistral Small", "欧州オープンソース"
 featured: false
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/mistral-ai-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # Mistral AI：欧州オープンソース最高峰、クレカ不要Experiment実験枠、2026年10月改定の真相＆実践エンジニアリングガイド
 
 元Google DeepMindおよびMeta AIの第一線研究者たちによってフランス・パリで設立された **Mistral AI** は、欧州および世界を牽引する最高峰のAIユニコーン企業です。オープンソース界に衝撃を与えた Mistral 7B、Mixtral 8x7B から、プログラマー必携のコード特化モデル Codestral、最新のエッジ向け小型モデル Ministral に至るまで、高いパラメータ効率と厳格な論理的推論力で世界中のエンジニアから熱烈な支持を集めています。

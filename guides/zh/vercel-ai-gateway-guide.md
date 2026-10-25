@@ -8,6 +8,9 @@ tags: ["Vercel", "AI Gateway", "0%平台费", "AI SDK", "Next.js", "Gemini 2.5",
 featured: false
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/vercel-ai-gateway-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # Vercel AI Gateway 深度实测指南：全网唯一 0% 平台服务费、每月 $5 免费额度、300+ 模型零加价透传与 Next.js AI SDK 原生接入
 
 在当下全球大模型聚合网关与 API 路由调度层中，各大中继平台通常会收取 5% ~ 10% 的 Token 加价抽成或昂贵的月度席位费。然而，全球前端与全栈部署领域的绝对霸主 **Vercel** 所推出的 **Vercel AI Gateway**，却以全行业绝无仅有的姿态打破了规则：**承诺 0% 平台服务费，所有模型 100% 官方原价透传！**

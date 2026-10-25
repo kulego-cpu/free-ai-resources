@@ -8,6 +8,9 @@ tags: ["Google", "Gemini", "完全無料", "初心者ガイド"]
 featured: true
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/google-gemini-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # なぜ Google Gemini は世界で最もお得な無料 API なのか？
 
 無料の LLM クォータを提供する世界的テック大手の中で、Google の **Google AI Studio** は個人の開発者や学習者にとって最も寛大なプラットフォームです：

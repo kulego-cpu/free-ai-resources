@@ -8,6 +8,9 @@ tags: ["Qwen3.8", "FlashNext", "Basalt", "Strata", "llamacpp", "RTX5090", "ロ�
 featured: true
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/qwen-3-8-flash-next-engine-benchmark-basalt-strata-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # Qwen 3.8 Flash Next 推論エンジン徹底比較：Basaltが187 t/sを記録 vs llama.cppは39 t/sで最下位！7大エンジン実測と「エキスパートスキップ」の罠
 
 普段ローカル環境でオープンソースLLMを動かしているエンジニアの多くは、まず `llama.cpp` や `Ollama` を立ち上げるのが定番でしょう。GGUFエコシステムの普及と安定性は抜群だからです。

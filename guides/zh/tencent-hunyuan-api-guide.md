@@ -8,6 +8,9 @@ tags: ["腾讯混元", "Hunyuan", "免费额度", "a13b", "OpenAI兼容", "国�
 featured: false
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/tencent-hunyuan-api-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # 腾讯混元大模型：真实免费权益与防坑指南
 
 腾讯云旗下的自研大模型体系——**腾讯混元大模型（Tencent Hunyuan）**，在国内 AI 开发者圈子中拥有极高的关注度。然而，社区中流传着不少关于混元免费策略的模糊信息甚至不实谣言（例如“混元-Lite 官方永久免费”）。

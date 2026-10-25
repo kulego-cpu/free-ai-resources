@@ -8,6 +8,9 @@ tags: ["llama.cpp", "Qwen", "代码大模型", "8GB显卡", "RTX4060", "超长�
 featured: true
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/qwen-flash-next-coder-8gb-gpu-262k-context-llamacpp-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # 千元 8GB 显卡也能硬吃 262K 上下文！llama.cpp 完整分层命令实测 Qwen Flash Next Coder 飙到 70 t/s
 
 > **导读**：本地跑大模型的开发者，苦“显存暴毙”久矣！

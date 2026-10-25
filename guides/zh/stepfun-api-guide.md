@@ -8,6 +8,9 @@ tags: ["阶跃星辰", "StepFun", "多模态", "限时免费", "CORS开放", "�
 featured: false
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/stepfun-api-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # 阶跃星辰 StepFun API 实测指南：stepaudio-3 音频多模态限时免费、CORS 原生通配符 * 与预付费零扣款全解析
 
 由前微软全球副总裁、知名自然语言处理专家姜大昕博士创立的 **阶跃星辰（StepFun / 跃问）**，自成立之初就凭借千亿及万亿级 MoE 基础大模型的自研实力，稳居中国大模型独角兽的第一梯队。

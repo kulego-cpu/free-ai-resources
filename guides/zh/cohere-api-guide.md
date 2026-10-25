@@ -8,6 +8,9 @@ tags: ["Cohere", "Command R+", "Rerank", "Embed", "永久免费", "RAG金标", "
 featured: false
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/cohere-api-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # Cohere 完整实测指南：企业级 RAG 检索金标、零门槛 Trial Key 每月 1,000 次免费调用与 CORS 避坑
 
 由著名 Transformer 架构奠基人之一 Aidan Gomez 于加拿大多伦多联合创立的 **Cohere**，是全球公认的企业级大模型、知识库检索增强生成（RAG）与语义搜索重排（Rerank）领域的绝对行业标杆。不同于消费级通用聊天模型，Cohere 从底层就专为企业搜索召回、精准引文字段对齐（Citation Grounding）以及复杂 Agent 工具调用而设计。

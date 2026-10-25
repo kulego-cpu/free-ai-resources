@@ -8,6 +8,9 @@ tags: ["KittenTTS", "TTS", "声音克隆", "1.58bit", "CPU推理", "语音合成
 featured: true
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/kitten-tts-2-158bit-cpu-voice-cloning-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # 老轻薄本也能实时克隆声音？1.58-bit Kitten-TTS 2 纯 CPU 极速实操指南（附小白完整代码）
 
 过去一年玩过本地 AI 语音合成的朋友，一定都踩过同一个巨坑：**“显存吞噬兽”**。

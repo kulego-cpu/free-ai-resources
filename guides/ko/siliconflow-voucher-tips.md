@@ -8,6 +8,9 @@ tags: ["SiliconFlow", "DeepSeek", "무료 바우처", "설정 가이드", "제�
 featured: true
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/siliconflow-voucher-tips/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # SiliconFlow: 오픈소스 거대 모델을 가장 합리적으로 호출하는 허브
 
 SiliconFlow(SiliconCloud)는 오픈소스 LLM 추론 가속에 특화된 대표적인 API 플랫폼입니다. 고가용 BGP 네트워크를 갖추어 평균 응답 지연 시간이 **180ms ~ 200ms**에 불과하며, 개인 개발자 및 연구원을 위한 최고의 AI 인프라를 제공합니다.
@@ -89,3 +92,9 @@ SiliconFlow는 OpenAI 표준뿐만 아니라 **Anthropic Messages 규격도 네�
 **180일 유효한 16위안 바우처**, **20종의 공식 영구 무료 모델 풀**, **OpenAI & Anthropic 듀얼 프로토콜 지원**으로 SiliconFlow는 최고의 가성비를 제공합니다.
 
 [FreeAI Dog](https://freeaidog.com)에서 발급받은 키를 등록하여 초저지연 무료 AI 환경을 경험해 보세요!
+
+---
+
+> 💡 **원문 출처 및 실시간 모니터링**：
+> - 원문 출처: [FreeAI Dog 공식 블로그](https://freeaidog.com/ko/blog/siliconflow-voucher-tips/)
+> - 무료 대형 언어 모델 실시간 가용성 및 지연 시간 측정은 [FreeAI Dog 가용성 레이더](https://freeaidog.com/ko/radar/)에서 확인하세요.

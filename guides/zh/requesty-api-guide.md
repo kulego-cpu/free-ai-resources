@@ -8,6 +8,9 @@ tags: ["Requesty", "AI路由网关", "Nemotron", "Gemma 4", "免费API", "1M上�
 featured: false
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/requesty-api-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # Requesty 深度实测指南：每日 200 次免费调用（全网最高）、$10 注册体验金、13 款 $0 免费模型与 5% 最低平台费全解析
 
 在当今大模型多云聚合与智能路由分发网关的竞争中，**Requesty** 凭借对开发者极其友好的策略迅速引爆了技术圈，被许多资深工程师誉为**“多模型网关领域最具性价比的终极黑马”**。

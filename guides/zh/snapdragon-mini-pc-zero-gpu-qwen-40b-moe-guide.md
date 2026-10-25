@@ -8,6 +8,9 @@ tags: ["Snapdragon", "高通骁龙", "IdeaCentreMini", "本地大模型", "Qwen"
 featured: true
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/snapdragon-mini-pc-zero-gpu-qwen-40b-moe-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # 两台迷你主机跑 95GB 大模型？联想骁龙 Mini PC 零独显实操指南（附小白组网与模型部署步骤）
 
 以往想在本地跑动 40B 以上的开源大模型，门槛高得让人望而却步：要么斥资一两万元去装双卡 RTX 3090 / 4090 工作站，要么狠心加钱上 64GB 乃至 128GB 统一内存的 Mac Studio。

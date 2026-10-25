@@ -8,6 +8,9 @@ tags: ["AWS Bedrock", "亚马逊云", "Claude 3.5", "Llama 3.3", "DeepSeek", "�
 featured: false
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/aws-bedrock-api-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # Amazon AWS Bedrock 深度实测指南：新用户最高 $200 免费推广额度（6个月）、托管 117+ 款企业级模型与 Batch 模式 50% 折扣全解析
 
 在当今全球企业级生成式 AI 云基础设施的角逐中，由云计算霸主亚马逊云科技（AWS）打造的 **Amazon AWS Bedrock** 凭借其全球最顶级的合规标准、零数据留存承诺以及对全球顶尖大模型提供商的无缝聚合，稳居全球企业 AI 生产平台的领导地位。

@@ -8,6 +8,9 @@ tags: ["Groq", "無料API", "LPU", "没入型翻訳", "Whisper", "実測レビ�
 featured: true
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/groq-free-api-speed-and-use-cases/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # 圧倒的な速度差：なぜ開発者全員がGroqキーを持つべきなのか？
 
 現在のAI業界において、ChatGPTやClaude、ローカルのOllamaに至るまで、大半のプラットフォームはNVIDIA製GPUクラスタに依存しています。私たちは画面上のカーソルがタイプライターのように1文字ずつ出力されるのを待つことに慣れてしまっていました。

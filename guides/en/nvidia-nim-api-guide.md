@@ -8,6 +8,9 @@ tags: ["NVIDIA NIM", "NVIDIA", "Llama 405B", "Nemotron", "DeepSeek R1", "OpenAI 
 featured: false
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/nvidia-nim-api-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # NVIDIA NIM: 160+ Models on Official Compute, 1,000 Trial Credits & HTTP 402 Truth
 
 Among global foundation model providers, **NVIDIA NIM (NVIDIA Inference Microservice)** hosted at `build.nvidia.com` commands immense attention across developer communities worldwide.

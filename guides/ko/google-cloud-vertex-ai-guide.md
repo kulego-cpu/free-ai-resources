@@ -8,6 +8,9 @@ tags: ["Google Cloud", "Vertex AI", "Gemini 2.5", "무료 크레딧", "$300 평�
 featured: false
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/google-cloud-vertex-ai-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # Google Cloud Vertex AI 완벽 가이드: 신규 $300 무료 크레딧 (90일), 개발자 월 $10 혜택 & $0 예산 과금 방지 설정
 
 전 세계 모든 클라우드 사업자와 대형 모델 플랫폼 중에서도 **"단일 무료 지원 금액이 가장 크고 인프라 안정성이 가장 뛰어난"** 서비스를 꼽으라면 단연 구글 클라우드의 **Vertex AI(일부 엔터프라이즈 도구는 Gemini Enterprise Agent Platform으로 통합 진행 중)** 입니다.

@@ -8,6 +8,9 @@ tags: ["Groq", "무료 API", "LPU", "몰입형 번역", "Whisper", "실전 리�
 featured: true
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/groq-free-api-speed-and-use-cases/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # 속도의 차원 도약: 왜 모든 개발자에게 Groq 키가 필요한가?
 
 현재 AI 생태계에서 ChatGPT, Claude, 로컬 Ollama에 이르기까지 대다수의 플랫폼은 엔비디아(NVIDIA) GPU 클러스터에 전적으로 의존하고 있습니다. 우리는 화면의 커서가 타자기처럼 글자를 한 자씩 느긋하게 찍어내는 속도에 익숙해져 있었습니다.

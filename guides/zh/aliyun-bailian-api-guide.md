@@ -8,6 +8,9 @@ tags: ["阿里云百炼", "通义千问", "Qwen 3.8", "免费额度", "用完即
 featured: false
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/aliyun-bailian-api-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # 阿里云百炼：80+ 款模型各送 100 万 Tokens，国内最庞大新人礼包实战
 
 在国产大模型生态中，阿里巴巴旗下的**阿里云百炼（Model Studio）**一直以模型生态全面和基建雄厚著称。

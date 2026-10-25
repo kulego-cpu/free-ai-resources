@@ -8,6 +8,9 @@ tags: ["MiniMax", "Hailuo AI", "Voucher", "M3", "OpenAI Compatible", "Direct Lin
 featured: false
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/minimax-m3-api-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # MiniMax Open Platform: Multimodal Excellence & Native SDK Compatibility
 
 As one of the prominent frontier AI developers in China, **MiniMax Open Platform (Hailuo AI)** has earned strong acclaim across the developer ecosystem. Whether for nuanced multi-turn roleplay, long-document parsing, ultra-realistic emotional voice cloning, or cinematic video synthesis, MiniMax provides a formidable full-stack API.

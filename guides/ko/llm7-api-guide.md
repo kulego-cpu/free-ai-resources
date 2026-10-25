@@ -8,6 +8,9 @@ tags: ["LLM7.io", "GPT-4o-mini", "무료 쿼터", "카드 불필요", "무가입
 featured: false
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/llm7-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # LLM7.io API 완벽 가이드: 유일한 무료 GPT-4o-mini 지원, 매일 10만 토큰 갱신, 무가입 'unused' 호출 & CORS 완전 개방
 
 대다수의 무료 AI 모델 집계 플랫폼(OpenRouter, Hugging Face, Together AI 등)은 제공하는 무료 모델의 범위를 Llama, Qwen, Mistral 등 오픈소스 가중치 모델로만 엄격히 제한하고 있습니다. OpenAI와 같은 독점 상용 모델을 무료 API 형태로 호출하는 것은 사실상 불가능에 가까웠습니다.

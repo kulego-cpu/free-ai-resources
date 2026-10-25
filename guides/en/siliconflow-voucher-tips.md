@@ -8,6 +8,9 @@ tags: ["SiliconFlow", "DeepSeek", "Free Voucher", "Setup Guide", "Zero Cost"]
 featured: true
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/siliconflow-voucher-tips/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # SiliconFlow (SiliconCloud): China's Top Open-Source LLM Inference Hub
 
 SiliconFlow (Beijing SiliconFlow Technology Co., Ltd.) is China's premier open-source LLM inference acceleration API platform. Benefiting from multi-line high-availability BGP networks, its average API response latency sits between **180ms and 200ms**, making it a prime choice for developers, researchers, and automated AI agents.
@@ -141,3 +144,9 @@ for chunk in response:
 With a **16 CNY long-validity voucher**, a **20-model permanent 0-cost multimodal pool**, and **OpenAI + Anthropic dual-protocol compatibility**, SiliconFlow delivers unmatched compute infrastructure.
 
 Connect your SiliconFlow key in [FreeAI Dog](https://freeaidog.com) to enjoy unified, zero-cost high-availability AI services!
+
+---
+
+> 💡 **Source & Live Radar**：
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/siliconflow-voucher-tips/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)

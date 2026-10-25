@@ -8,6 +8,9 @@ tags: ["Hermes", "SenseNova", "DeepSeek", "API Debugging", "Post-Mortem", "Open 
 featured: true
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/hermes-agent-sensenova-400-reasoning-fix/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # Hermes Agent Broken After Update? How I Fixed the 400 Bad Request, Rogue 429 Failover, and Duplicate Reasoning Fields
 
 I've been using Nous Research's **Hermes Agent** as my daily driver, hooked up to **SenseTime SenseNova 6.8 Flash Lite** as the primary backend. With generous free tokens, a 256K context window, and rock-solid throughput, it's usually been a joy to run.

@@ -8,6 +8,9 @@ tags: ["AMD", "RX9070XT", "RDNA4", "Strata", "Qwen3.8", "FlashNext", "ローカ�
 featured: true
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/amd-rx-9070-xt-strata-qwen-flash-next-budget-setup/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # 1600ユーロで最前線Flash Nextを制覇！AMD RX 9070 XT ＋ Strataで90 t/sを叩き出す：量子化の罠とコスパ自作PC実測ガイド
 
 ローカル環境で125Bクラスの巨大なMoE（Mixture of Experts）モデルを動かそうと調べると、多くのガイドで同じ絶望的な結論に行き当たります：

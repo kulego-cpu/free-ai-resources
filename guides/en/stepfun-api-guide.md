@@ -8,6 +8,9 @@ tags: ["StepFun", "Multimodal", "Audio", "LimitedFree", "CORS", "Prepaid", "Dire
 featured: false
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/stepfun-api-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # StepFun API Deep Dive: stepaudio-3 Multimodal Free Preview, Native CORS Wildcard * & Prepaid Zero-Risk Policy
 
 Founded by Dr. Jiang Daxin, former Microsoft Partner and Global Vice President, **StepFun (阶跃星辰)** stands among China's premier frontier AI unicorns. Leveraging proprietary hundred-billion and trillion-parameter Mixture-of-Experts (MoE) architectures, StepFun has built an exceptional reputation across complex reasoning, computer vision, and unified audio intelligence.

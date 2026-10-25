@@ -8,6 +8,9 @@ tags: ["Cloudflare", "Workers AI", "Llama 3.3", "DeepSeek R1", "永久免费", "
 featured: false
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/cloudflare-workers-ai-api-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # Cloudflare Workers AI：全球 300+ 边缘机房实测、每日 10,000 Neurons 永久免费与工程避坑指南
 
 作为全球顶级的 CDN 与网络安全巨头，**Cloudflare** 依托其分布在 300 多个城市的数据中心和无服务器边缘基础设施，推出了 **Workers AI** 平台。它将开源大语言模型与多模态模型直接部署在全球各地的边缘 GPU 节点上，通过 Anycast 智能路由，将推理请求发送至地理距离最近的机房执行，极大消除了跨洋中继的高网络延迟。

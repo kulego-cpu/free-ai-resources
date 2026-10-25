@@ -8,6 +8,9 @@ tags: ["OpenRouter", "無料モデル", "スマートルーティング", "ク�
 featured: false
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/openrouter-free-models-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # OpenRouter 無料専用枠完全攻略ガイド：24種の公式 :free モデル・毎日50回リセット・CORS完全開放・10ドル拡張の裏技
 
 現在、多種多様なAIモデルが登場していますが、開発者が直面する最大の課題は**プロバイダーの乱立**です。各社ごとに個別登録し、クレジットカードを登録し、APIキーとエンドポイントを管理するのは非常に煩雑です。
@@ -146,3 +149,9 @@ print(fallback_resp.choices[0].message.content)
 ## 5. まとめ
 
 OpenRouterは、1つのAPIキーで世界の主要オープンモデルや特化型AIを無料かつ安全に試せる最強のハブです。今すぐ [OpenRouter Keys 設定ページ](https://openrouter.ai/settings/keys) でキーを発行して活用してみてください！
+
+---
+
+> 💡 **元記事と稼働監視**：
+> - 元記事: [FreeAI Dog 公式ブログ](https://freeaidog.com/ja/blog/openrouter-free-models-guide/)
+> - 無料AIモデルのリアルタイム稼働状況と遅延データは [FreeAI Dog 可用性レーダー](https://freeaidog.com/ja/radar/) をご覧ください。

@@ -8,6 +8,9 @@ tags: ["LLM7.io", "GPT-4o-mini", "無料枠", "クレカ不要", "登録不要",
 featured: false
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/llm7-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # LLM7.io API 徹底解説：唯一の無料 GPT-4o-mini、毎日10万トークン更新、登録不要「unused」即利用＆CORS完全開放
 
 世界中のオープンソースモデル無料プラットフォーム（OpenRouter、Hugging Face、Together AI など）の多くは、提供モデルを Llama、Qwen、Mistral などのオープンウェイトモデルに限定しています。OpenAI などの独自商用モデルを無料で利用することは通常不可能です。

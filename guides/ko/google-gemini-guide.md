@@ -8,6 +8,9 @@ tags: ["Google", "Gemini", "영구 무료", "초보자 가이드"]
 featured: true
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/google-gemini-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # Google Gemini가 현존 최고의 무료 AI API인 이유
 
 무료 대형 언어 모델(LLM) 쿼터를 제공하는 글로벌 빅테크 기업 중, 구글의 **Google AI Studio**는 개인 개발자와 일반 사용자에게 가장 혜택이 큰 플랫폼입니다:

@@ -8,6 +8,9 @@ tags: ["高可用", "API网关", "429容灾", "Cloudflare Worker", "Python"]
 featured: true
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/free-llm-failover-round-robin-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # 痛点：为什么个人开发者的免费 API 总是“突然阵亡”？
 
 目前各大 AI 厂商为了吸引开发者，都提供了非常慷慨的免费 API 额度（例如 Google AI Studio 每日 1,500 次调用、Groq 超高速推理、硅基流动 SiliconFlow 赠金与永久免费模型等）。

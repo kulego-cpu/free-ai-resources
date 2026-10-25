@@ -8,6 +8,9 @@ tags: ["KittenTTS", "TTS", "音声クローン", "1.58bit", "CPU推論", "音声
 featured: true
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/kitten-tts-2-158bit-cpu-voice-cloning-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # 型落ちノートPCでリアルタイム音声クローン？1.58-bit Kitten-TTS 2 纯CPU実践ガイド
 
 ここ最近、ローカル環境でオープンソースの AI 音声合成（TTS）を試そうとした人の多くが、同じ壁にぶつかってきました：**「膨大な VRAM 消費」**です。

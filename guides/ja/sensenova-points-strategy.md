@@ -8,6 +8,9 @@ tags: ["SenseTime", "SenseNova", "ポイント制", "ベータ特典"]
 featured: false
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/sensenova-points-strategy/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # SenseNova：ゲームのように「定期的にスタミナが回復する」神仕様
 
 AI 大手 SenseTime（商湯科技）のフラグシップ大モデル「SenseNova（日日新）」は、現在 **Token Plan 無料パブリックベータ** を提供しています。この無料枠の仕組みは、他の AI ベンダーと一線を画す**デュアルプール自動回復システム**を採用しています。

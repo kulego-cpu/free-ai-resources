@@ -8,6 +8,9 @@ tags: ["Moonshot", "Kimi", "LongContext", "Voucher", "Prepaid", "DirectConnectio
 featured: false
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/moonshot-kimi-api-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # Moonshot Kimi API Deep Dive: Mainland 15 RMB Voucher, Global $1 Tier Gate & Prepaid Zero-Risk Policy
 
 Founded by Dr. Yang Zhilin of Tsinghua University, **Moonshot AI (月之暗面)** and its flagship conversational assistant **Kimi** have gained immense popularity across Asia and worldwide for groundbreaking lossless ultra-long context understanding (up to 2 million tokens in consumer apps, 128k+ in API), real-time web retrieval integration, and academic-grade document analysis.

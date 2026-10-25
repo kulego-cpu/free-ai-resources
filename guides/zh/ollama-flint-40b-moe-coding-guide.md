@@ -8,6 +8,9 @@ tags: ["Ollama", "Flint", "MoE", "代码大模型", "本地大模型", "VSCode",
 featured: true
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/ollama-flint-40b-moe-coding-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # Ollama v0.40.8 首发！40B 编码神模型 Flint 一键本地跑：激活仅 2.5B，SWE-bench 74.2% 越级实测
 
 > **导读**：在本地跑代码大模型，开发者长期面临一个致命的“三难困境”：  

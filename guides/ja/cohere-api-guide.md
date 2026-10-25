@@ -8,6 +8,9 @@ tags: ["Cohere", "Command R+", "Rerank", "Embed", "永久無料", "RAG金標", "
 featured: false
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/cohere-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # Cohere 完全実践ガイド：企業向けRAG検索の業界標準、ゼロ障壁 Trial Key（月1,000回無料）＆ネイティブCORS活用法
 
 Transformerアーキテクチャの共同提唱者の一人である Aidan Gomez 氏がカナダ・トロントで創業した **Cohere** は、企業向け生成AI、ナレッジ検索拡張生成（RAG）、およびセマンティック文書再順位付け（Rerank）の分野において、世界的なデファクトスタンダードとして認知されています。

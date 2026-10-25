@@ -8,6 +8,9 @@ tags: ["Ollama", "Flint", "MoE", "Code LLM", "Local AI", "VSCode", "Open Source"
 featured: true
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/ollama-flint-40b-moe-coding-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # Ollama v0.40.8 Launches Recursive Flint: Run 40B MoE (2.5B Active) Locally in 1 Command (SWE-bench 74.2%)
 
 > **Executive Summary**: When running coding models locally, developers have historically faced an inescapable trilemma:  

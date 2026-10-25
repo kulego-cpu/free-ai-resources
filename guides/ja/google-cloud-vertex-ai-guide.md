@@ -8,6 +8,9 @@ tags: ["Google Cloud", "Vertex AI", "Gemini 2.5", "無料クレジット", "300�
 featured: false
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/google-cloud-vertex-ai-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # Google Cloud Vertex AI 徹底解説：新規300ドル試用枠（90日）、開発者月10ドル特典＆0ドル予算による自動課金防止手順
 
 世界中のクラウドアカウントや大模型APIの中でも、**「単体で付与される無料クレジット額が最も大きく、インフラのSLAが最高峰」**なプラットフォームといえば、Google Cloud の **Vertex AI（一部ツールは Gemini Enterprise Agent Platform へ統合移行中）** です。

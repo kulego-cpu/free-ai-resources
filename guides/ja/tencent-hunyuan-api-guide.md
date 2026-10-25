@@ -8,6 +8,9 @@ tags: ["Tencent Hunyuan", "テンセント混元", "無料枠", "a13b", "OpenAI�
 featured: false
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/tencent-hunyuan-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # テンセント混元 (Hunyuan)：真の無料枠と開発者のための安全設計ガイド
 
 テンセントクラウドの自社開発基盤モデル群である**テンセント混元（Tencent Hunyuan）**は、アジアの開発者層において広く認知されています。しかし、コミュニティ上では「混元-Liteが永久無料」といった古い情報や誤解が広まりがちです。

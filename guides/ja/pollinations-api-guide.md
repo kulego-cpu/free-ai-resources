@@ -8,6 +8,9 @@ tags: ["Pollinations AI", "登録不要", "FLUX生図", "オープンソース",
 featured: false
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/pollinations-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # Pollinations AI 徹底解説：100% オープンソース多モーダル、登録不要のURL生図、毎週1.5 Pollen付与＆CORS完全開放
 
 数多くの商用大模型や推論APIプロバイダーが存在する中で、**Pollinations AI（pollinations.ai）** は極めて異彩を放つオープンソース精神を貫いています。コードリポジトリ、インフラ構成、開発ロードマップ、さらには開発チームの日常的な技術ディスカッションに至るまで、そのすべてが GitHub と Discord 上で 100% 公開されています。

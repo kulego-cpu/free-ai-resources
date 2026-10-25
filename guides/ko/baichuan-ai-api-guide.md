@@ -8,6 +8,9 @@ tags: ["바이촨", "Baichuan AI", "의료 LLM", "무료 혜택", "카드 불필
 featured: false
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/baichuan-ai-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # 바이촨 AI API 실전 가이드: 80위안 무료 바우처(~500만 토큰), 의료 특화 LLM 및 5 RPM 대응 전략
 
 검색 엔진 및 지식 그래프 기술의 강자 소고우(Sogou)의 전 CEO 왕샤오촨이 설립한 **바이촨 AI(Baichuan AI)**는 중국 파운데이션 모델 시장의 핵심 플레이어 중 하나입니다. 수준 높은 중국어 텍스트 처리와 논리 추론 능력뿐 아니라, 특히 **임상 의료 특화 모델인 Baichuan-M3 Plus**를 통해 차별화된 입지를 다지고 있습니다.

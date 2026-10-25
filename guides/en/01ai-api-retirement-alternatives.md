@@ -8,6 +8,9 @@ tags: ["01AI", "Yi", "Retirement", "Alternatives", "ChinaAI", "NoCreditCard", "D
 featured: true
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/01ai-api-retirement-alternatives/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # 01.AI Developer Platform Permanently Retired: Strategic Pivot & 2026 Active Alternatives
 
 **01.AI**, the prominent Chinese AI unicorn founded by renowned computer scientist Dr. Kai-Fu Lee (Sinovation Ventures), has **permanently decommissioned its public developer API platform (Fully Retired)**.
@@ -81,3 +84,9 @@ For developers previously leveraging Yi foundation models (Yi-Lightning, Yi-Larg
    OPENAI_API_KEY="your_stepfun_key"
    MODEL_NAME="step-3.5-flash"
    ```
+
+---
+
+> 💡 **Source & Live Radar**：
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/01ai-api-retirement-alternatives/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)

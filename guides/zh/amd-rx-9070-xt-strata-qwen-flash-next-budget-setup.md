@@ -8,6 +8,9 @@ tags: ["AMD", "RX9070XT", "RDNA4", "Strata", "Qwen3.8", "FlashNext", "低配大�
 featured: true
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/amd-rx-9070-xt-strata-qwen-flash-next-budget-setup/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # 1600€ 拿下前沿 Flash Next！AMD RX 9070 XT + Strata 跑出 90 t/s：量化避坑与万元装机实测
 
 很多打算在本地折腾大模型的朋友，查了一圈配置单直接被劝退：

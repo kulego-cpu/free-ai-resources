@@ -8,6 +8,9 @@ tags: ["Ollama", "Flint", "MoE", "코딩LLM", "로컬AI", "VSCode", "오픈소�
 featured: true
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/ollama-flint-40b-moe-coding-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # Ollama v0.40.8 정식 지원! 40B MoE 코딩 모델 Flint 원클릭 로컬 구동: 2.5B 활성화, SWE-bench 74.2% 벤치마크 분석
 
 > **핵심 요약**: 로컬 장비에서 코딩 전문 거대언어모델(LLM)을 구동할 때, 개발자들은 항상 '트릴레마(세 가지 딜레마)'를 겪어왔습니다:  

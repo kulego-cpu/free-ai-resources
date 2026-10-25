@@ -8,6 +8,9 @@ tags: ["Snapdragon", "IdeaCentreMini", "로컬LLM", "Qwen", "MoE", "엣지AI", "
 featured: true
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/snapdragon-mini-pc-zero-gpu-qwen-40b-moe-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # 미니 PC 두 대로 95GB 대형 모델을? 레노버 스냅드래곤 미니 PC 노외장그래픽 실전 가이드
 
 지금까지 40B 이상의 오픈소스 대형 언어 모델(LLM)을 로컬에서 구동하려면 진입 장벽이 너무 높았습니다. RTX 3090이나 4090을 2장 이상 꽂은 거대한 워크스테이션을 조립하거나, 수백만 원을 들여 64GB/128GB 통합 메모리를 갖춘 Mac Studio를 장만해야 했죠.

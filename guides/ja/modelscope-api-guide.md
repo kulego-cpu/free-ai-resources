@@ -8,6 +8,9 @@ tags: ["ModelScope", "アリババ", "Qwen", "DeepSeek", "オープンソース"
 featured: false
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/modelscope-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # ModelScope（魔搭）完全実測ガイド：毎日250魔粒無料枠、900+オープンモデル直結・クレカ不要＆CORS対応
 
 中国のオープンソースAI生態系において、アリババクラウドが主導する **ModelScope（魔搭コミュニティ）** は、国内最大規模を誇るオープンモデルプラットフォームです。アリババ自社開発の通義千問（Qwen）全シリーズはもちろん、世界的話題を呼んだ DeepSeek-V3 / R1、智譜 GLM、百川、MiniMax など、数千の優れたモデルウェイトが結集しています。

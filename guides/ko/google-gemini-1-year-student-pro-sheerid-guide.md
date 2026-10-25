@@ -8,6 +8,9 @@ tags: ["Google-Gemini", "Gemini-Pro", "학생할인", "SheerID", "Google-One", "
 featured: true
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/google-gemini-1-year-student-pro-sheerid-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # 연간 30만 원 상당 무료! Google Gemini 1년 무료 학생 AI Pro & 5TB 클라우드 인증 완벽 가이드
 
 > **들어가며**: 구글이 전 세계 학생들을 위해 파격적인 혜택을 열었습니다: **학생 신분 인증만 거치면, 월 19.99달러(연간 약 30만 원 상당)의 Google AI Pro / Plus 요금제를 1년간 완전 무료로 이용할 수 있습니다!**
@@ -107,3 +110,9 @@ featured: true
 발급받은 계정은 단순 웹 대화뿐만 아니라 개발 워크플로에도 활용할 수 있습니다:
 - Google AI Studio에 접속하여 무료 API Key 발급;
 - **FreeAI Dog ([freeaidog.com](https://freeaidog.com))**의 실시간 레이더 정보를 참고하여 Cursor, VS Code 등의 코딩 에이전트에 연동하면 1M 이상의 대용량 컨텍스트 모델을 제약 없이 활용할 수 있습니다!
+
+---
+
+> 💡 **원문 출처 및 실시간 모니터링**：
+> - 원문 출처: [FreeAI Dog 공식 블로그](https://freeaidog.com/ko/blog/google-gemini-1-year-student-pro-sheerid-guide/)
+> - 무료 대형 언어 모델 실시간 가용성 및 지연 시간 측정은 [FreeAI Dog 가용성 레이더](https://freeaidog.com/ko/radar/)에서 확인하세요.

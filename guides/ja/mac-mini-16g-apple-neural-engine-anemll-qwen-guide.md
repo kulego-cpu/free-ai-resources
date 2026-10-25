@@ -8,6 +8,9 @@ tags: ["Mac-mini", "Apple-Silicon", "Apple-Neural-Engine", "ANE", "ANEMLL", "Qwe
 featured: true
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/mac-mini-16g-apple-neural-engine-anemll-qwen-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # 32GBメモリ不安を打破！16GB Mac miniでファン無音駆動：Apple Neural Engine (ANE) とANEMLLで7B〜14Bモデルを動かす完全実戦ガイド
 
 > **はじめに**：ネットで「MacでローカルLLM」と検索すると、判を押したように「16GBは非推奨」「最低でも32GB、できれば64GB以上」といった声が目立ちます。インフルエンサーたちは64GBのMac Studioで27Bや70Bモデルを軽快に動かす様子を披露しています。

@@ -8,6 +8,9 @@ tags: ["硅基流动", "DeepSeek", "代金券", "避坑指南", "零成本实战
 featured: true
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/siliconflow-voucher-tips/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # 硅基流动（SiliconCloud）：国内开源算力集散地深度全景
 
 硅基流动（北京硅基流动科技股份有限公司）是国内首家专注开源大模型推理加速的顶级 API 平台。凭借国内多线高可用 BGP 网络，平均请求延迟低至 **180ms ~ 200ms**，是开发者、个人研究员搭建 AI 工作流的首选基础设施。
@@ -185,3 +188,9 @@ curl -X POST https://api.siliconflow.cn/v1/chat/completions \
 硅基流动凭借 **16 元长效通用代金券**、**20 款涵盖全模态的官方永久 0 元模型库** 以及 **OpenAI / Anthropic 双协议兼容**，为国内开发者提供了无可替代的算力底座。
 
 现在就登录控制台开启你的免费 AI 算力之旅吧！在 [FreeAI Dog](https://freeaidog.com) 中，你可以将获得的密钥无缝填入各模型路由，享受全网最稳健的高可用聚合体验。
+
+---
+
+> 💡 **原文首发与实时探活**：
+> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/blog/siliconflow-voucher-tips/)
+> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/radar/)

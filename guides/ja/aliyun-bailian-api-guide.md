@@ -8,6 +8,9 @@ tags: ["Alibaba Cloud Bailian", "アリババ百錬", "通義千問", "Qwen 3.8"
 featured: false
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/aliyun-bailian-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # アリババクラウド百錬：80以上のモデルで各100万トークン無料、国内最大規模のスターター特典
 
 中国の大規模言語モデルエコシステムにおいて、アリババが運営する**百錬（Bailian / Model Studio）**は、最高水準の基盤インフラと網羅的なモデルラインナップで定評があります。

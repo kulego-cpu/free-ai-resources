@@ -8,6 +8,9 @@ tags: ["DeepInfra", "极低价格", "高并发", "开源大模型", "Llama", "De
 featured: false
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/deepinfra-api-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # DeepInfra API 深度实测指南：全网最低价按量推理（Llama 8B 低至 $0.02/1M）、默认 200 高并发与 CORS 完全开放
 
 在开源大模型与 GPU 云推理赛道中，如果要评选出**“单价最击穿底线、单位成本吞吐量最高”**的平台，总部位于北美的 **DeepInfra（deepinfra.com）** 绝对名列前茅。

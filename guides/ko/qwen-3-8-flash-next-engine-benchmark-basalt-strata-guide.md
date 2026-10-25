@@ -8,6 +8,9 @@ tags: ["Qwen3.8", "FlashNext", "Basalt", "Strata", "llamacpp", "RTX5090", "로�
 featured: true
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/qwen-3-8-flash-next-engine-benchmark-basalt-strata-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # Qwen 3.8 Flash Next 엔진 벤치마크: Basalt 187 t/s 폭주 vs llama.cpp 39 t/s 꼴찌! 7대 엔진 실측 및 '전문가 건너뛰기' 함정 가이드
 
 로컬 환경에서 오픈소스 LLM을 직접 구동하는 유저라면 대부분 `llama.cpp`나 `Ollama`를 먼저 떠올릴 것입니다. GGUF 양자화 생태계가 워낙 폭넓고 안정적이기 때문입니다.

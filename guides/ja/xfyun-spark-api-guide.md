@@ -8,6 +8,9 @@ tags: ["iFLYTEK Spark", "訊飛星火", "Spark Lite", "永久無料", "無制限
 featured: false
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/xfyun-spark-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # iFLYTEK Spark Lite：国内では極めて貴重な「永久無料＋無制限トークン」の基盤モデル
 
 多くの中国系LLMベンダーが「体験ポイント贈呈（期限切れまたは枯渇後に課金が必要）」というモデルへ移行する中、科大訊飛（iFLYTEK）が提供する**訊飛星火大模型（iFLYTEK Spark）**は、個人開発者に対して驚くほど手厚い特典を提供し続けています：**主力軽量モデル Spark Lite（model: `lite`）は、公式に永久 0 元無料かつトークン総量上限なし（無制限トークン）です！**

@@ -8,6 +8,9 @@ tags: ["讯飞星火", "Spark Lite", "永久免费", "无限Token", "免实名",
 featured: false
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/xfyun-spark-api-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # 讯飞星火 Spark Lite：国内罕见的“永久免费 + 无限 Tokens”国家队基座
 
 在众多主流国产大模型厂商纷纷推行“赠送体验额度、到期或耗尽即需充值”的今天，由科大讯飞推出的**讯飞星火大模型（iFLYTEK Spark）**却保留了一项对个人开发者极具诚意的重磅福利：**主力轻量模型 Spark Lite（model: `lite`）官方永久 0 元免费，且不设 Token 总量上限（无限 Tokens）！**

@@ -8,6 +8,9 @@ tags: ["Snapdragon", "IdeaCentreMini", "LocalLLM", "Qwen", "MoE", "EdgeAI", "Loc
 featured: true
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/snapdragon-mini-pc-zero-gpu-qwen-40b-moe-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # Running a 95GB Frontier LLM with Zero GPUs? Hands-on Snapdragon Mini PC Dual-Cluster Guide
 
 Running 40B+ open-weight models locally has traditionally required painful trade-offs: either building an expensive, noisy, dual-RTX 3090/4090 workstation, or spending $4,000+ on a high-spec 64GB/128GB unified-memory Mac Studio.

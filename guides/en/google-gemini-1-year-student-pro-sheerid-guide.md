@@ -8,6 +8,9 @@ tags: ["Google-Gemini", "Gemini-Pro", "Student-Discount", "SheerID", "Google-One
 featured: true
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/google-gemini-1-year-student-pro-sheerid-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # Claim a $240 Value! Google Gemini 1-Year Free Student AI Pro & 5TB Cloud Storage Verification Guide
 
 > **Introduction**: Google has officially launched an attractive perk for enrolled students worldwide: **1 full year of Google AI Pro / Google Plus membership at zero cost!**
@@ -116,3 +119,9 @@ Recently, rumors circulated that purchasing an $8.99 tier after claiming the stu
 Beyond the standard web interface, you can harness your Gemini subscription for local development:
 - Use your Google credentials in **Google AI Studio** to generate API keys;
 - Connect Gemini 2.5 Flash / Pro directly into local developer tooling (Cursor, VS Code, Aider, or translation plugins) using endpoints tracked on **FreeAI Dog ([freeaidog.com](https://freeaidog.com))** for zero-cost, long-context workflow automation!
+
+---
+
+> 💡 **Source & Live Radar**：
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/google-gemini-1-year-student-pro-sheerid-guide/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)

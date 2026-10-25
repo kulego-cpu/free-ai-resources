@@ -8,6 +8,9 @@ tags: ["AWS Bedrock", "아마존웹서비스", "Claude 3.5", "Llama 3.3", "DeepS
 featured: false
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/aws-bedrock-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # Amazon AWS Bedrock 완벽 가이드: 신규 최대 $200 무료 시험 크레딧(6개월), 117+ 엔터프라이즈 모델 및 Batch 50% 할인 활용법
 
 글로벌 엔터프라이즈 생성형 AI 클라우드 인프라 경쟁에서 아마존웹서비스(AWS)의 **Amazon AWS Bedrock**은 최고 수준의 규정 준수, 제로 데이터 보존 정책, 그리고 글로벌 정상급 파운데이션 모델 통합 관리를 무기로 시장을 선도하고 있습니다.

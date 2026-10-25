@@ -8,6 +8,9 @@ tags: ["화산엔진", "화산방주", "Doubao", "두바오", "DeepSeek", "안�
 featured: false
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/volcengine-ark-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # 화산방주(Volcengine Ark) API 실측 가이드: 모델별 50만 토큰 무료 패키지, 안심체험 과금 차단 및 초고속 응답
 
 중국 클라우드 AI 시장에서 바이트댄스(ByteDance)의 **화산방주(Volcengine Ark)** 는 자체 개발한 'Doubao(두바오)' 파운데이션 모델 라인업, 독자적인 BGP 백본망을 통한 초저지연 직결, 그리고 파격적인 요금 체계를 무기로 수많은 개발자와 기업의 핵심 인프라로 자리잡았습니다.

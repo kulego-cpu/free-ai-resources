@@ -8,6 +8,9 @@ tags: ["Mistral AI", "Codestral", "Mistral Small", "유럽 오픈소스", "영�
 featured: false
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/mistral-ai-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # Mistral AI: 유럽 오픈소스의 제왕, 카드 불필요 Experiment 실험 플랜, 2026년 10월 개편의 진실 & 실전 연동 가이드
 
 전 Google DeepMind와 Meta AI 출신 핵심 연구원들이 프랑스 파리에서 공동 창업한 **Mistral AI**는 유럽을 넘어 전 세계 오픈소스 AI 생태계를 이끄는 최고의 인공지능 기업 중 하나입니다. 오픈소스 모델의 패러다임을 바꾼 Mistral 7B, Mixtral 8x7B부터 전 세계 개발자들의 코딩 필수 모델이 된 Codestral, 그리고 경량 엣지 모델 Ministral에 이르기까지 뛰어난 파라미터 효율성과 정밀한 논리 추론으로 명성을 떨치고 있습니다.

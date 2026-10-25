@@ -8,6 +8,9 @@ tags: ["Pollinations AI", "무가입", "FLUX 이미지 생성", "오픈소스", 
 featured: false
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/pollinations-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # Pollinations AI 완벽 가이드: 100% 오픈소스 멀티모달, 가입 없는 URL 이미지 생성, 매주 1.5 Pollen 지급 & CORS 완전 개방
 
 수많은 인공지능 API 제공업체 중에서도 **Pollinations AI(pollinations.ai)** 는 가장 극단적인 수준의 오픈소스 철학을 실천하고 있습니다. 프론트엔드 코드부터 백엔드 분산 클러스터 스케줄러, 개발 로드맵, 심지어 일상적인 엔지니어링 대화까지 모든 것이 GitHub와 Discord를 통해 100% 투명하게 공개되어 있습니다.

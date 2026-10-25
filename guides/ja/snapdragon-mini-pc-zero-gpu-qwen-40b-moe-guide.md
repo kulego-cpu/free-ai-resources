@@ -8,6 +8,9 @@ tags: ["Snapdragon", "IdeaCentreMini", "ローカルLLM", "Qwen", "MoE", "エッ
 featured: true
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/snapdragon-mini-pc-zero-gpu-qwen-40b-moe-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # 超小型PC2台で95GBの巨大モデルが動く？Lenovo Snapdragon Mini PC ゼロGPU実践ガイド
 
 これまで、40B 以上のオープンソース大規模言語モデル（LLM）を手元で動かすには、RTX 3090 / 4090 を2枚挿した巨大なワークステーションを組むか、50万円以上を投じて 64GB / 128GB のメモリを積んだ Mac Studio を購入するしかありませんでした。

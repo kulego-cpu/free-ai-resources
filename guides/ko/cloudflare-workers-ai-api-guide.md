@@ -8,6 +8,9 @@ tags: ["Cloudflare", "Workers AI", "Llama 3.3", "DeepSeek R1", "영구 무료", 
 featured: false
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/cloudflare-workers-ai-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # Cloudflare Workers AI: 전 세계 300+ 엣지 인프라 실측, 매일 10,000 Neurons 영구 무료 & 실전 연동 가이드
 
 글로벌 CDN 및 클라우드 보안의 독보적 선두 주자인 **Cloudflare**는 전 세계 300여 개 도시에 분산된 데이터센터와 Anycast 엣지 네트워크를 바탕으로 서버리스 추론 플랫폼 **Workers AI**를 제공하고 있습니다. 전 세계 엣지 서버의 분산 GPU 클러스터에 오픈소스 대형 언어 및 멀티모달 모델을 직접 배포하여, 사용자의 요청을 물리적으로 가장 가까운 엣지 리전으로 자동 라우팅함으로써 대륙 간 네트워크 지연을 획기적으로 줄여줍니다.

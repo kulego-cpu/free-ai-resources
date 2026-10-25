@@ -8,6 +8,9 @@ tags: ["OpenRouter", "무료 모델", "스마트 라우팅", "카드 불필요",
 featured: false
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/openrouter-free-models-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # OpenRouter 무료 모델 가이드: 24개 공식 :free 모델, 일 50회 리셋, CORS 와일드카드 (*), $10 업그레이드 비법
 
 최근 다양한 오픈소스 및 상용 AI 모델이 쏟아져 나오면서 개발자들이 겪는 가장 큰 번거로움은 **공급사 파편화(Vendor Sprawl)**입니다. 각 플랫폼마다 별도로 회원가입을 하고, 신용카드를 등록하며, 서로 다른 API Key와 엔드포인트를 관리해야 하기 때문입니다.
@@ -149,3 +152,9 @@ OPTIONS 사전 요청 검증 결과 `access-control-allow-origin: *`를 반환�
 - 🎯 **추천 대상**: 다양한 모델을 단일 키로 테스트하고 싶은 프론트엔드 개발자, 연구원, 학생, 가성비 최고의 개인 개발자.
 - 💡 **최적 조합**: 코딩 작업은 `cohere/north-mini-code:free`, 대규모 문서 분석은 `minimax/minimax-m3.1-flash:free`, 범용 대화는 `google/gemma-4-31b-it:free` 또는 `openrouter/free`.
 - 🚀 **지금 시작하기**: [OpenRouter Keys 설정 페이지](https://openrouter.ai/settings/keys)에서 무료 키를 발급받고 바로 시작해 보세요!
+
+---
+
+> 💡 **원문 출처 및 실시간 모니터링**：
+> - 원문 출처: [FreeAI Dog 공식 블로그](https://freeaidog.com/ko/blog/openrouter-free-models-guide/)
+> - 무료 대형 언어 모델 실시간 가용성 및 지연 시간 측정은 [FreeAI Dog 가용성 레이더](https://freeaidog.com/ko/radar/)에서 확인하세요.

@@ -8,6 +8,9 @@ tags: ["SiliconFlow", "DeepSeek", "クーポン", "初心者ガイド", "完全�
 featured: true
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/siliconflow-voucher-tips/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # SiliconFlow（ケイ素流動）：中国最強のオープンソース大規模推論ハブ
 
 SiliconFlow（北京硅基流动科技股份有限公司）は、オープンソースLLMの高速推論に特化したAPIプラットフォームです。高可用BGPネットワークを採用し、平均レスポンス遅延は **180ms 〜 200ms** と極めて低く、個人開発者や研究者にとって理想的なAIインフラを提供しています。
@@ -89,3 +92,9 @@ SiliconFlowはOpenAI規格だけでなく、**Anthropic Messages APIにもネイ
 **180日間有効な16元クーポン**、**20種類の公式永久0円モデル群**、そして **OpenAI / Anthropic 双プロトコル対応** により、SiliconFlowは極めて強力なインフラです。
 
 [FreeAI Dog](https://freeaidog.com) でAPIキーを設定し、完全無料・低遅延の快適なAI環境をご活用ください！
+
+---
+
+> 💡 **元記事と稼働監視**：
+> - 元記事: [FreeAI Dog 公式ブログ](https://freeaidog.com/ja/blog/siliconflow-voucher-tips/)
+> - 無料AIモデルのリアルタイム稼働状況と遅延データは [FreeAI Dog 可用性レーダー](https://freeaidog.com/ja/radar/) をご覧ください。

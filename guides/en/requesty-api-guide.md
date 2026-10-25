@@ -8,6 +8,9 @@ tags: ["Requesty", "AI Router", "Nemotron", "Gemma 4", "Free API", "1M Context",
 featured: false
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/requesty-api-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # Requesty Developer Guide: Highest 200 Free Requests/Day, $10 Signup Bonus, 13 Free Models & 5% Lowest Platform Fee
 
 In the rapidly evolving AI gateway and routing market, **Requesty** has quickly established itself as a developer favorite, widely praised as **the most cost-effective AI router in the industry**.

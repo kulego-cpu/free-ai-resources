@@ -8,6 +8,9 @@ tags: ["Alibaba Cloud Bailian", "알리바바 백련", "퉁이치엔원", "Qwen 
 featured: false
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/aliyun-bailian-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # 알리바바 백련(Bailian): 80+개 모델별 100만 토큰 무료, 국내 최대 규모의 스타터 팩
 
 중국 파운데이션 모델 생태계에서 알리바바가 운영하는 **알리바바 백련(Model Studio / Bailian)** 은 독보적인 클라우드 인프라와 방대한 모델 라인업으로 손꼽힙니다.

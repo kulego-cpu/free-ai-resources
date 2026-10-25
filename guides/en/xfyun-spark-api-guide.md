@@ -8,6 +8,9 @@ tags: ["iFLYTEK Spark", "Spark Lite", "Permanent Free", "Unlimited Tokens", "No 
 featured: false
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/xfyun-spark-api-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # iFLYTEK Spark Lite: A Truly Permanent Free & Unlimited Token LLM Endpoint
 
 While most mainstream Chinese LLM providers offer temporary trial credits that expire or require top-ups once exhausted, **iFLYTEK Spark** stands out with an exceptionally generous offering for individual developers: **its lightweight flagship model, Spark Lite (model ID: `lite`), is officially ¥0 permanent free with no total token cap (unlimited tokens)!**

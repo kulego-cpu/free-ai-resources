@@ -8,6 +8,9 @@ tags: ["GitHub Models", "서비스종료", "카드불필요", "대체추천", "D
 featured: true
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/github-models-retirement-alternatives/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # GitHub Models 공식 퇴역: 마이크로소프트 서비스 종료 이유와 2026 무료 대체 플랫폼 5선
 
 마이크로소프트와 GitHub은 **GitHub Models가 2026년 7월 30일부로 완전히 퇴역 종료(Fully Retired)되었음**을 공식 발표했습니다.
@@ -59,3 +62,9 @@ featured: true
 1. **구형 엔드포인트 정리**: 프로젝트 코드에서 `models.inference.ai.azure.com` 및 구형 PAT 설정을 삭제;
 2. **대체 무료 Key 발급**: [FreeAI Dog 프로바이더 허브](https://freeaidog.com/api/)에서 바이두 첸판, Google AI Studio 또는 SenseNova의 무료 Key를 발급;
 3. **클라이언트 설정 갱신**: NextChat, ChatBox, Cursor에서 Base URL과 Key를 교체하면 즉시 모델 추론이 복구됩니다!
+
+---
+
+> 💡 **원문 출처 및 실시간 모니터링**：
+> - 원문 출처: [FreeAI Dog 공식 블로그](https://freeaidog.com/ko/blog/github-models-retirement-alternatives/)
+> - 무료 대형 언어 모델 실시간 가용성 및 지연 시간 측정은 [FreeAI Dog 가용성 레이더](https://freeaidog.com/ko/radar/)에서 확인하세요.

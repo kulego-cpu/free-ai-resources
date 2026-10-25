@@ -8,6 +8,9 @@ tags: ["Groq", "免费API", "LPU", "沉浸式翻译", "Whisper", "实战测评"]
 featured: true
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/groq-free-api-speed-and-use-cases/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # 速度的降维打击：为什么每个开发者都该有一个 Groq Key？
 
 在当下的 AI 领域，几乎所有主流平台（无论是 ChatGPT、Claude 还是本地部署的 Ollama）都在依赖英伟达的 GPU 集群进行推理。你习惯了看着屏幕上的光标像打字员一样，一个字一个字慢悠悠地往外蹦——直到你第一次点开 **Groq**。

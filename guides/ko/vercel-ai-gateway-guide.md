@@ -8,6 +8,9 @@ tags: ["Vercel", "AI Gateway", "수수료0%", "AI SDK", "Next.js", "Gemini 2.5",
 featured: false
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/vercel-ai-gateway-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # Vercel AI Gateway 완벽 가이드: 업계 유일 0% 수수료, 매월 $5 무료 크레딧, 300+ 모델 원가 제공 및 Next.js AI SDK 연동
 
 대형 언어 모델(LLM)을 중계하는 수많은 API 게이트웨이 서비스들은 일반적으로 5%~10%의 토큰 마진을 취하거나 고가의 월 구독료를 청구합니다. 하지만 글로벌 프론트엔드 및 풀스택 클라우드의 표준인 **Vercel**이 선보인 **Vercel AI Gateway**는 **업계 유일의 '0% 플랫폼 수수료(공식 원가 100% 전달)'**를 선언하며 개발자 생태계에 큰 반향을 일으키고 있습니다.

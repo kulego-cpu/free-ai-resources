@@ -8,6 +8,9 @@ tags: ["GitHub Models", "Retired", "No Credit Card", "Alternatives", "DeepSeek",
 featured: true
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/github-models-retirement-alternatives/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # GitHub Models Retired: Why Microsoft Shut It Down & Top 5 Free Alternatives in 2026
 
 Microsoft and GitHub have officially announced: **GitHub Models has been fully retired as of July 30, 2026**.
@@ -68,3 +71,9 @@ Microsoft officially recommends migrating GitHub Models workflows to **Azure AI 
 1. **Clean Deprecated Endpoints**: Search your codebase for `models.inference.ai.azure.com` and remove obsolete PAT keys;
 2. **Claim Free Keys**: Visit the [FreeAI Dog Providers Hub](https://freeaidog.com/api/) to grab free API keys from Baidu Qianfan, Google AI Studio, or SenseNova;
 3. **Update Client Config**: Replace your `Base URL` and `API Key` in NextChat, ChatBox, or Cursor to restore full reasoning inference in seconds!
+
+---
+
+> 💡 **Source & Live Radar**：
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/github-models-retirement-alternatives/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)

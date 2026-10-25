@@ -8,6 +8,9 @@ tags: ["NVIDIA NIM", "英伟达", "Llama 405B", "Nemotron", "DeepSeek R1", "Open
 featured: false
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/nvidia-nim-api-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # NVIDIA NIM：英伟达原厂算力展厅，1000 积分体验与 402 停机真相
 
 在所有提供大模型 API 服务的全球算力厂商中，由显卡霸主英伟达推出的 **NVIDIA NIM (NVIDIA Inference Microservice)** 在开发者圈子里一直备受瞩目。

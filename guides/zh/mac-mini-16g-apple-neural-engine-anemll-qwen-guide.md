@@ -8,6 +8,9 @@ tags: ["Mac-mini", "Apple-Silicon", "Apple-Neural-Engine", "ANE", "ANEMLL", "Qwe
 featured: true
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/mac-mini-16g-apple-neural-engine-anemll-qwen-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # 打破32G显存焦虑！16G Mac mini 巧用 Apple Neural Engine (ANE) 零风扇静音跑 7B~14B 大模型：ANEMLL 实操与选型避坑指南
 
 > **导读**：只要你在社交平台或者论坛搜“Mac 跑本地大模型”，映入眼帘的几乎清一色是“劝退 16G”、“必须 32G 起步”、“预算充足直接上 64G/128G”。甚至很多测评博主随手扔一个 27B 或 70B 模型，演示在 64G Mac Studio 上跑得有多溜。

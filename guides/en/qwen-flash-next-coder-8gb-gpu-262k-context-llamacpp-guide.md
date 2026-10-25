@@ -8,6 +8,9 @@ tags: ["llama.cpp", "Qwen", "Coding-LLM", "8GB-GPU", "RTX4060", "Long-Context", 
 featured: true
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/qwen-flash-next-coder-8gb-gpu-262k-context-llamacpp-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # Run 262K Context on an 8GB GPU at 70 tok/s! llama.cpp Tensor Offload Guide for Qwen Flash Next Coder
 
 > **Introduction**: Running local LLMs often comes with severe VRAM anxiety.

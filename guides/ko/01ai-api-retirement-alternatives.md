@@ -8,6 +8,9 @@ tags: ["01AI", "링이완우", "Yi", "서비스종료", "대체플랫폼", "중�
 featured: true
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/01ai-api-retirement-alternatives/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # 01.AI 개발자 플랫폼 공식 서비스 종료: 리카이푸 팀의 사업 재편 및 2026 대체 플랫폼 가이드
 
 중국 오픈소스 대형 모델 시장에서 Yi 시리즈 모델로 글로벌 벤치마크 정상에 올랐던 AI 유니콘 **01.AI (링이완우 / 創新工場)** 의 일반 개발자용 공개 API 플랫폼이 공식적으로 서비스를 종료하고 퇴역(Fully Retired)했습니다.
@@ -81,3 +84,9 @@ featured: true
    OPENAI_API_KEY="your_stepfun_key"
    MODEL_NAME="step-3.5-flash"
    ```
+
+---
+
+> 💡 **원문 출처 및 실시간 모니터링**：
+> - 원문 출처: [FreeAI Dog 공식 블로그](https://freeaidog.com/ko/blog/01ai-api-retirement-alternatives/)
+> - 무료 대형 언어 모델 실시간 가용성 및 지연 시간 측정은 [FreeAI Dog 가용성 레이더](https://freeaidog.com/ko/radar/)에서 확인하세요.

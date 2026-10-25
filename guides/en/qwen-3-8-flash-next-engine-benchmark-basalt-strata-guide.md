@@ -8,6 +8,9 @@ tags: ["Qwen3.8", "FlashNext", "Basalt", "Strata", "llamacpp", "RTX5090", "Local
 featured: true
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/qwen-3-8-flash-next-engine-benchmark-basalt-strata-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # Qwen 3.8 Flash Next Engine Shootout: Basalt Hits 187 t/s vs llama.cpp 39 t/s! 7 Engines Benchmarked with Expert-Skipping Analysis
 
 For local LLM enthusiasts, running `llama.cpp` or `Ollama` has long been the default routine. After all, the GGUF ecosystem is everywhere and highly stable.

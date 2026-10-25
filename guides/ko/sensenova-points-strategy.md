@@ -8,6 +8,9 @@ tags: ["SenseTime", "SenseNova", "포인트 충전", "베타 혜택"]
 featured: false
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/sensenova-points-strategy/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # SenseNova: 모바일 게임처럼 '주기적으로 충전되는' 독특한 무료 체계
 
 중국 AI 대표 기업 SenseTime(상탕테크)의 주력 거대 모델 **SenseNova**는 현재 **Token Plan 무료 퍼블릭 베타**를 운영 중입니다. 타사 모델과 확연히 구분되는 가장 큰 특징은 **듀얼 풀 스태미나 자동 회복 시스템**입니다.

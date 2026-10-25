@@ -8,6 +8,9 @@ tags: ["零一万物", "01.AI", "Yi", "停服退役", "平替方案", "国内直
 featured: true
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/01ai-api-retirement-alternatives/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # 零一万物 01.AI 正式退役停服：李开复团队业务调整原委与 2026 免绑卡平替指南
 
 曾经在中国开源大模型领域以 Yi 系列模型横扫各大评测基准的头部独角兽 —— **零一万物（01.AI / 创新工场）**，其面向个人开发者的公共 API 开放平台现已正式停服退役（Fully Retired）。
@@ -81,3 +84,9 @@ featured: true
    OPENAI_API_KEY="your_stepfun_key"
    MODEL_NAME="step-3.5-flash"
    ```
+
+---
+
+> 💡 **原文首发与实时探活**：
+> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/blog/01ai-api-retirement-alternatives/)
+> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/radar/)

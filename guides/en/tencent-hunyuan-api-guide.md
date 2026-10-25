@@ -8,6 +8,9 @@ tags: ["Tencent Hunyuan", "Hunyuan", "Free Tier", "a13b", "OpenAI Compatible", "
 featured: false
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/tencent-hunyuan-api-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # Tencent Hunyuan: Genuine Free Tier Perks & Developer Anti-Billing Guide
 
 As Tencent Cloud's flagship foundation model suite, **Tencent Hunyuan** enjoys widespread recognition across developer circles in Asia. However, conflicting rumors—most notably claims that "Hunyuan-Lite is permanently free"—have caused confusion for newcomers.

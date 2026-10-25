@@ -8,6 +8,9 @@ tags: ["SambaNova", "DeepSeek-V3.1", "Llama 3.3", "SN40L", "영구무료", "Open
 featured: false
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/sambanova-cloud-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # SambaNova Cloud: SN40L 데이터플로우 칩 실측, 진정한 영구 무료 티어 및 20 RPD 제한 가이드
 
 엔비디아 GPU 일색인 글로벌 AI 인프라 시장에서, 스탠퍼드 대학의 유력 컴퓨터 구조 학자들이 창립한 **SambaNova Systems**는 독자 개발한 **SN40L 재구성 가능 데이터플로우 유닛 (RDU, Reconfigurable Dataflow Unit)** 실리콘을 통해 기존 GPU와는 완전히 다른 고처리량 추론 환경을 제공합니다.

@@ -8,6 +8,9 @@ tags: ["Mistral AI", "Codestral", "Mistral Small", "欧洲开源", "永久免费
 featured: false
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/mistral-ai-api-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # Mistral AI：欧洲开源之王、免信用卡 Experiment 实验层、2026 年 10 月改版真相与工程避坑指南
 
 由前 Google DeepMind 与 Meta AI 核心研究科学家联合创立于法国巴黎的 **Mistral AI**，被公认为欧洲乃至全球最具技术实力的大模型独角兽之一。从最初引爆开源圈的 Mistral 7B、Mixtral 8x7B，到专为全球程序员量身定制的代码旗舰 Codestral，再到最新发布的 Ministral 端侧小模型，Mistral 始终以极度精炼的参数规模、顶级的推理逻辑与严谨的多语言能力闻名。

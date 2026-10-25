@@ -8,6 +8,9 @@ tags: ["Cohere", "Command R+", "Rerank", "Embed", "영구 무료", "RAG 표준",
 featured: false
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/cohere-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # Cohere 완벽 실측 가이드: 기업용 RAG 검색의 절대 표준, 무장벽 Trial Key (월 1,000회 무료) & 실전 연동법
 
 Transformer 논문의 공동 저자 중 한 명인 Aidan Gomez가 캐나다 토론토에서 설립한 **Cohere**는 전 세계 엔터프라이즈 AI, 지식 기반 검색 증강 생성(RAG), 그리고 시맨틱 문서 재순위화(Rerank) 분야에서 독보적인 글로벌 표준으로 인정받고 있습니다. 단순 대화형 챗봇을 넘어 엄격한 사실 검증과 출처 인용(Citation Grounding), 정밀 검색에 특화되어 설계되었습니다.

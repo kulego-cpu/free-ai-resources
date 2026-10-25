@@ -8,6 +8,9 @@ tags: ["Baichuan AI", "Medical LLM", "Free Tier", "No Card Needed", "OpenAI Comp
 featured: false
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/baichuan-ai-api-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # Baichuan AI API Guide: ¥80 Free Credit (~5M Tokens), Medical LLMs, and 5 RPM Gotchas
 
 Founded by former Sogou CEO Wang Xiaochuan, **Baichuan AI** has emerged as one of China's most prominent foundation model providers. Backed by extensive expertise in search algorithms, knowledge graphs, and vertical industry fine-tuning, Baichuan stands out not only for high-quality Chinese semantics, but also for its pioneering **clinical medical models (Baichuan-M3 Plus)**.

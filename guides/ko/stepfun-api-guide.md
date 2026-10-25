@@ -8,6 +8,9 @@ tags: ["StepFun", "스텝펀", "멀티모달", "오디오", "한시적무료", "
 featured: false
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/stepfun-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # 스텝펀 StepFun API 완벽 실측 가이드: stepaudio-3 오디오 멀티모달 한시적 무료, 와일드카드 CORS 전면 개방 및 선불제 무위험 정책
 
 전 마이크로소프트 글로벌 파트너이자 부사장이었던 장다신(Jiang Daxin) 박사가 설립한 **스텝펀(StepFun / 階躍星辰)** 은, 수천억 및 수조 파라미터급 MoE(Mixture-of-Experts) 기반 모델의 독자 기술력을 바탕으로 중국 프론티어 AI 유니콘의 최선두를 달리고 있습니다.

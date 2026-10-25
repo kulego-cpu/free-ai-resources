@@ -8,6 +8,9 @@ tags: ["GitHub Models", "停服退役", "免绑卡", "平替方案", "DeepSeek",
 featured: true
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/github-models-retirement-alternatives/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # GitHub Models 正式退役：微软停服原委与 2026 免绑卡平替盘点
 
 微软与 GitHub 官方正式宣布：**GitHub Models 已于 2026 年 7 月 30 日全面退役停服（Fully Retired）**。
@@ -68,3 +71,9 @@ featured: true
 1. **清理无效代码**：搜索项目中原有的 `models.inference.ai.azure.com` 及旧 GitHub PAT，避免请求报错阻塞业务；
 2. **领取新平台 Key**：在 [FreeAI Dog 厂商中心](https://freeaidog.com/api/) 领取百度千帆、Google AI Studio 或商汤日日新的免费 Key；
 3. **替换配置即可满血复活**：在 NextChat、ChatBox、Cursor 或自定义脚本中更新 `Base URL` 与 `API Key`，享受更充沛的算力！
+
+---
+
+> 💡 **原文首发与实时探活**：
+> - 本文首发于 [FreeAI Dog 官网博客](https://freeaidog.com/blog/github-models-retirement-alternatives/)
+> - 更多免费 API 端点实时探活与端到端延迟测速，欢迎访问 [FreeAI Dog 可用性雷达](https://freeaidog.com/radar/)

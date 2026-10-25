@@ -8,6 +8,9 @@ tags: ["Ollama", "로컬LLM", "TTS음성합성", "d3의사결정모델", "AI에�
 featured: true
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/ollama-v0-40-11-tts-phonon-d3-decision-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # CLI 하나로 대화·의도 결정·음성 합성까지 끝낸다! Ollama v0.40.11 실전 리뷰: 내장 Phonon TTS와 d3 라우팅 모델 활용 가이드
 
 > **들어가며**: 로컬 환경에서 AI 에이전트, 스마트홈 음성 비서, 자동화 봇을 구축해 본 개발자라면 복잡한 파이프라인 관리에 어려움을 겪은 경험이 있을 것입니다.  

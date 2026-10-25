@@ -8,6 +8,9 @@ tags: ["Hermes", "SenseNova", "센스타임", "DeepSeek", "API디버깅", "트�
 featured: true
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/hermes-agent-sensenova-400-reasoning-fix/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # Hermes Agent 업데이트 후 센스타임 모델 먹통? 400 에러·의문의 429 무한루프·reasoning 필드 충돌 해결기
 
 평소 샤오커(小可)는 Nous Research의 자율 에이전트인 **Hermes Agent**를 주력으로 사용하고 있으며, 백엔드 모델로는 **센스타임(SenseNova 6.8 Flash Lite)**을 연동해 두고 있었습니다. 넉넉한 무료 토큰, 256K의 넉넉한 컨텍스트 창, 준수한 처리 속도 덕분에 일상 스크립트 작성이나 자동화 작업에 매우 유용했기 때문입니다.

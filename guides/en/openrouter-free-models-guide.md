@@ -8,6 +8,9 @@ tags: ["OpenRouter", "Free Models", "Smart Routing", "No Card Needed", "CORS Wil
 featured: false
 ---
 
+> 📌 **Original Source**: This article is syndicated from [FreeAI Dog Official Platform](https://freeaidog.com/en/blog/openrouter-free-models-guide/). For live LLM availability radar, latency benchmarks, and interactive API testers, visit the official site.
+
+
 # OpenRouter Free Models Guide: 24 Official :free Models, 50 Reqs/Day Reset, CORS Wildcard (*), and $10 Upgrade Secret
 
 In today's fragmented AI landscape, a primary developer friction is **vendor sprawl**: navigating separate accounts, divergent authentication schemes, independent billing forms, and bespoke SDKs across dozens of cloud providers.
@@ -157,3 +160,9 @@ Free upstream providers occasionally encounter maintenance or queue spikes.
 - 🎯 **Best For**: Web developers building browser-direct AI tools, researchers evaluating diverse models, and indie hackers seeking zero-cost setups.
 - 💡 **Optimal Setup**: Use `cohere/north-mini-code:free` for programming, `minimax/minimax-m3.1-flash:free` for document analysis, and `openrouter/free` for reliable general queries.
 - 🚀 **Get Started**: Head to [OpenRouter Keys](https://openrouter.ai/settings/keys) to claim your key and explore the ecosystem!
+
+---
+
+> 💡 **Source & Live Radar**：
+> - Originally published on [FreeAI Dog Official Blog](https://freeaidog.com/en/blog/openrouter-free-models-guide/)
+> - For real-time free LLM endpoint health check and latency benchmarks, visit [FreeAI Dog Availability Radar](https://freeaidog.com/en/radar/)

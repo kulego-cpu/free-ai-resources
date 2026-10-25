@@ -8,6 +8,9 @@ tags: ["Cerebras", "gpt-oss-120b", "晶圆芯片", "3000tps", "极速推理", "O
 featured: false
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/cerebras-cloud-api-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # Cerebras Cloud：全球最快晶圆级推理引擎实测与 $5 试用金避坑指南
 
 如果说 Groq 凭借 500 tokens/s 的 LPU 芯片让开发者感受到了什么是“打字机如飞”，那么由硅谷超算独角兽 **Cerebras Systems** 带来的 **Cerebras Cloud Inference**，则把大模型推理速度推向了另一个物理极限——**高达 1800 ~ 3000 tokens/秒！**

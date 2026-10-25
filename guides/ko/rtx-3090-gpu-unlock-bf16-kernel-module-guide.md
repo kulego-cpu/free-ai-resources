@@ -8,6 +8,9 @@ tags: ["RTX3090", "GPUUnlock", "Linux커널", "BF16", "로컬LLM", "하드웨어
 featured: true
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/rtx-3090-gpu-unlock-bf16-kernel-module-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # RTX 3090 연산 성능 1.9배 무료 해금? Zagitta GPU Unlock 커널 모듈 실측 및 LLM 실제 체감 성능
 
 로컬에서 대형 언어 모델(LLM)을 구동하는 홈랩 유저들에게 24GB VRAM을 갖춘 **RTX 3090**은 여전히 최고의 가성비 카드입니다. 샤오커(小可)의 작업실에서도 3090 두 장이 Qwen과 Llama 등 로컬 모델 추론 및 파인튜닝용으로 매일 활발하게 돌아가고 있습니다.

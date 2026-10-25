@@ -8,6 +8,9 @@ tags: ["Qwen3.8", "FlashNext", "Basalt", "Strata", "llamacpp", "RTX5090", "本�
 featured: true
 ---
 
+> 📌 **原创声明**：本文首发于 [FreeAI Dog 官方平台](https://freeaidog.com/blog/qwen-3-8-flash-next-engine-benchmark-basalt-strata-guide/)。如需体验 API 在线实时测速、可用性秒级雷达与端到端延迟监控，请访问主站。
+
+
 # Qwen 3.8 Flash Next 引擎横评：Basalt 飙到 187 t/s vs llama.cpp 39 t/s 垫底！7 大引擎实测与“专家跳过”避坑指南
 
 平时在本地折腾开源大模型的朋友，很多人第一反应都是顺手开一个 `llama.cpp` 或者 `Ollama`。毕竟生态成熟、量化格式（GGUF）到处都是。

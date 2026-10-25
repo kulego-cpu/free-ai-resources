@@ -8,6 +8,9 @@ tags: ["Tencent Hunyuan", "텐센트 훈위안", "무료 혜택", "a13b", "OpenA
 featured: false
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/tencent-hunyuan-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # 텐센트 훈위안 (Hunyuan): 실제 무료 혜택과 개발자 안심 과금 차단 가이드
 
 텐센트 클라우드의 독자적인 기반 모델 포트폴리오인 **텐센트 훈위안(Tencent Hunyuan)** 은 강력한 클라우드 백본망과 결합되어 많은 관심을 받고 있습니다. 그러나 개발자 커뮤니티에는 'Hunyuan-Lite 영구 무료'와 같은 부정확한 정보가 퍼져 있기도 합니다.

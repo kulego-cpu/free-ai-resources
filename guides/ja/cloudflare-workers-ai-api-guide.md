@@ -8,6 +8,9 @@ tags: ["Cloudflare", "Workers AI", "Llama 3.3", "DeepSeek R1", "永久無料", "
 featured: false
 ---
 
+> 📌 **元記事のご案内**: このガイドは [FreeAI Dog 公式プラットフォーム](https://freeaidog.com/ja/blog/cloudflare-workers-ai-api-guide/) の転載です。リアルタイムのモデル稼働状況やオンラインAPIテストツールは公式サイトでご利用いただけます。
+
+
 # Cloudflare Workers AI：世界300+拠点エッジ推論、毎日10,000 Neurons永久無料＆実践エンジニアリングガイド
 
 世界屈指のCDNおよびクラウドセキュリティ企業である **Cloudflare** は、世界300以上の都市に広がるデータセンターとAnycastルーティング網を活用し、サーバーレスAI推論プラットフォーム **Workers AI** を展開しています。世界中のエッジサーバーに配置されたGPUクラスター上でオープンソースモデルを直接実行し、物理的に最も近い拠点へ自動ルーティングすることで、長距離ネットワーク往復によるレイテンシを極限まで削減しています。

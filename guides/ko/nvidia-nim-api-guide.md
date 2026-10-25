@@ -8,6 +8,9 @@ tags: ["NVIDIA NIM", "엔비디아", "Llama 405B", "Nemotron", "DeepSeek R1", "O
 featured: false
 ---
 
+> 📌 **원문 안내**: 본 가이드는 [FreeAI Dog 공식 플랫폼](https://freeaidog.com/ko/blog/nvidia-nim-api-guide/)에서 최초 발행되었습니다. 실시간 LLM 가용성 레이더 및 인터랙티브 테스트 도구는 공식 사이트를 방문하세요.
+
+
 # NVIDIA NIM: 엔비디아 원천 컴퓨팅, 1,000 크레딧 체험과 402 정지의 진실
 
 글로벌 파운데이션 모델 생태계에서 GPU 거두 엔비디아가 운영하는 **NVIDIA NIM (NVIDIA Inference Microservice)** 은 개발자들 사이에서 단연 최고의 인기를 자랑합니다.
