@@ -1,4 +1,4 @@
-#【实测可用】Google Gemini 1年学生Pro + 5TB云盘保姆级认证指南（绕过SheerID无大陆选项，附避坑防扣费）
+##【实测可用】Google Gemini 1年学生Pro + 5TB云盘保姆级认证指南（绕过SheerID无大陆选项，附避坑防扣费）
 
 最近 Google 官方推出了极具吸引力的学生免费优惠计划，只要通过学生身份认证，即可免费领取 **1 年 Google AI Pro 会员**，并赠送 **5TB Google One 云存储空间**（含深度研究 Deep Research、Spark 权限及模型高频额度），活动截止到今年 12 月 31 日。
 
