@@ -3,7 +3,7 @@ title: "A New Heavyweight AI IDE! Meituan CatPaw & LongCat Complete Guide: Agent
 description: "Tired of $20/month Cursor subscriptions? Meituan has officially opened public beta for CatPaw, its internal AI coding IDE! Learn about its Ask/Agent dual-engine architecture, NextEdit predictive completion, In-IDE live web preview, MCP toolchains, and how to claim daily free API tokens from the LongCat LLM platform with full OpenAI compatibility."
 pubDate: 2026-10-27
 author: "Xiao Ke (FreeAI Dog Core Team)"
-category: "Practical Guides"
+category: "Direct Line"
 tags: ["MeituanCatPaw", "LongCat", "AICodingAssistant", "AI_IDE", "CursorAlternative", "FreeAPI", "AgentCoding", "MCP"]
 featured: true
 ---

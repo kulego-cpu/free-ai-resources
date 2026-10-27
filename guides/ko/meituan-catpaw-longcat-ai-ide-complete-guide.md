@@ -3,7 +3,7 @@ title: "차세대 다크호스의 등장! 메이투안 캣포(Meituan CatPaw) AI
 description: "매달 20달러의 Cursor 구독료가 부담스러우셨나요? 중국 테크 공룡 메이투안이 사내 수만 명의 엔지니어 현장에서 검증한 독립형 AI 개발 환경 'CatPaw(캣포)'를 완전 무료 공개 베타로 오픈했습니다! Ask/Agent 듀얼 모드, NextEdit 의도 예측 완성, 인-IDE 실시간 웹 프리뷰, MCP 연동 및 자체 LLM 롱캣(LongCat)의 매일 무료 토큰 API 연동법까지 상세 분석합니다."
 pubDate: 2026-10-27
 author: "샤오커 (FreeAI Dog 핵심 개발팀)"
-category: "실전 가이드"
+category: "중국 직결"
 tags: ["메이투안CatPaw", "LongCat", "AI코딩어시스턴트", "AI_IDE", "Cursor대체", "무료API", "에이전트코딩", "MCP프로토콜"]
 featured: true
 ---

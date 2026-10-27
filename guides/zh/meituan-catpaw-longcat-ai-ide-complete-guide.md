@@ -3,7 +3,7 @@ title: "国产黑马登场！美团 CatPaw (猫爪) AI 编程 IDE 深度实测�
 description: "厌倦了每月 $20 的 Cursor 账单？美团内部打磨数年的自主 AI 编程开发环境 CatPaw（猫爪）正式开启免费公测！本文深度剖析其 Ask/Agent 双交互架构、NextEdit 意图预测补全、In-IDE 实时网页预览与 MCP 扩展生态。更有美团自研大模型 LongCat 每日海量免费 Token 获取与兼容 OpenAI API 无缝接入实战教程！"
 pubDate: 2026-10-27
 author: "小可 (FreeAI Dog 核心开发组)"
-category: "实战进阶"
+category: "国内直连"
 tags: ["美团CatPaw", "LongCat", "AI编程助手", "AI_IDE", "Cursor平替", "免费API", "Agent编程", "MCP协议"]
 featured: true
 ---

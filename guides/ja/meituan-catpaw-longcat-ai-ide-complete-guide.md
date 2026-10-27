@@ -3,7 +3,7 @@ title: "中国巨大テック発の超新星！美団（Meituan）CatPaw (猫爪
 description: "毎月20ドルのCursor課金に疲弊していませんか？中国フードデリバリー＆テック大手「美団（Meituan）」が社内エンジニア数万人の現場で鍛え上げた次世代AI統合開発環境「CatPaw（猫爪）」がパブリックベータを公開！Ask/Agent両用設計、NextEdit編集意図予測、IDE内リアルタイムWebプレビュー、MCP連携から独自モデル「LongCat」の毎日無料API活用法まで徹底解説。"
 pubDate: 2026-10-27
 author: "小可 (FreeAI Dog コア開発チーム)"
-category: "実践ガイド"
+category: "中国直結"
 tags: ["美団CatPaw", "LongCat", "AIプログラミング", "AI_IDE", "Cursor代替", "無料API", "Agentコーディング", "MCPプロトコル"]
 featured: true
 ---
