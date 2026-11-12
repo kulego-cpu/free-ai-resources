@@ -109,7 +109,7 @@ featured: true
 
 여기서 가장 경계해야 할 점은 기능을 늘리기 위해 무거운 외부 프레임워크를 무작정 끌어오는 것입니다.
 
-<img src="/images/blog/yozakura-local-3d-ai-companion-architecture.webp" alt="Yozakura fully local 3D desktop AI companion architecture and multimodal memory tiering" />
+<img src="https://img.freeaidog.com/images/blog/yozakura-local-3d-ai-companion-architecture.webp" alt="Yozakura fully local 3D desktop AI companion architecture and multimodal memory tiering" />
 
 개발자가 엮어낸 미니멀한 멀티모달 퍼즐은 다음과 같습니다:
 

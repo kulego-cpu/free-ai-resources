@@ -27,7 +27,7 @@ Apache-2.0ライセンスで完全公開されており、NotebookLMをローカ
 
 私たちはRTX 4070 12GBと32GBメモリを積んだ検証マシンを用意し、外部インターネットへのゲートウェイを切断してローカル限定のオフライン検証を開始しました。
 
-<img src="/images/blog/surfsense-2-3-0-local-ollama-notebooklm-setup.webp" alt="SurfSense 2.3.0とローカルOllamaの接続構成図および実機テレメトリ" />
+<img src="https://img.freeaidog.com/images/blog/surfsense-2-3-0-local-ollama-notebooklm-setup.webp" alt="SurfSense 2.3.0とローカルOllamaの接続構成図および実機テレメトリ" />
 
 ---
 

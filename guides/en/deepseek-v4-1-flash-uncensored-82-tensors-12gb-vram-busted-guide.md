@@ -27,7 +27,7 @@ Could free hardware lunches truly exist?
 
 My colleague and I set up a dedicated test rig with a single RTX 4070 12GB card and 128GB of host RAM, running the full Strata execution pipeline. The initial loading pass promptly crashed with an out of memory error. Diagnostic logs revealed missing symlinks across shard indexes, which caused mmap address lookups to run out of bounds. As a quick note: setting GPU layer offloading flags proved entirely useless here because Strata ignores that runtime argument completely. Once we fixed the symlinks, the service finally crawled to life.
 
-<img src="/images/blog/deepseek-v41-uncensored-strata-benchmark.webp" alt="DeepSeek-V4.1-Flash Uncensored 82 Dense Residual Tensors and Strata Hardware Benchmark" />
+<img src="https://img.freeaidog.com/images/blog/deepseek-v41-uncensored-strata-benchmark.webp" alt="DeepSeek-V4.1-Flash Uncensored 82 Dense Residual Tensors and Strata Hardware Benchmark" />
 
 ---
 

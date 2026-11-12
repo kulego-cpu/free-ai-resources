@@ -27,7 +27,7 @@ featured: true
 它专为 DSH Desktop 打造。
 通过 Cordis 模块化扩展机制，把全网聚合热点嵌进客户端左侧活动栏。
 
-<img src="/images/blog/ds-newstop-cover.webp" alt="DS-NewsTop 侧边栏多平台热榜界面" />
+<img src="https://img.freeaidog.com/images/blog/ds-newstop-cover.webp" alt="DS-NewsTop 侧边栏多平台热榜界面" />
 
 ---
 

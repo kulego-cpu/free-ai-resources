@@ -19,7 +19,7 @@ featured: true
 两小时会，我们几个人手敲纪要，还是漏了两个决策项。
 散会后我决定试 Natively 3.0：纪要得做，音频不出本机。
 
-<img src="/images/blog/natively-meeting-dashboard.webp" alt="Natively 3.0 本地会议纪要与实时问答面板" />
+<img src="https://img.freeaidog.com/images/blog/natively-meeting-dashboard.webp" alt="Natively 3.0 本地会议纪要与实时问答面板" />
 
 ---
 

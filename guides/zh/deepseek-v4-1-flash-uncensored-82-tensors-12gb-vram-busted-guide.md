@@ -27,7 +27,7 @@ featured: true
 
 我和同事搬来一台工作站，单张 RTX 4070 12GB 卡配 128GB 内存。挂载 Strata 跑全流程。第一次加载直接爆内存。排查发现是分片缺少软链接，导致 mmap 寻址越界。顺便提一句：加层数卸载参数在这套分片上根本没用，Strata 压根不读。换好符号链接，服务这才勉强启动。
 
-<img src="/images/blog/deepseek-v41-uncensored-strata-benchmark.webp" alt="DeepSeek-V4.1-Flash 去审查 82 张量残差主路改动与 Strata 硬件吞吐实测" />
+<img src="https://img.freeaidog.com/images/blog/deepseek-v41-uncensored-strata-benchmark.webp" alt="DeepSeek-V4.1-Flash 去审查 82 张量残差主路改动与 Strata 硬件吞吐实测" />
 
 ---
 

@@ -19,7 +19,7 @@ featured: true
 二時間に及ぶ会議は手作業でメモを取りましたが、二箇所の決定事項が漏れました。
 会議後、私は Natively 3.0 の検証に着手しました。議事録の自動化は必要ですが、音声データは一歩も社外の端末から出さない前提です。
 
-<img src="/images/blog/natively-meeting-dashboard.webp" alt="Natively 3.0 ローカル会議議事録とリアルタイム検索画面" />
+<img src="https://img.freeaidog.com/images/blog/natively-meeting-dashboard.webp" alt="Natively 3.0 ローカル会議議事録とリアルタイム検索画面" />
 
 ---
 

@@ -40,7 +40,7 @@ hf download MiniMaxAI/MiniMax-H3 --include "text_encoder/*"
 
 以下は公式が公開したローカル SGLang 推論とオンライン API の同一シード比較画像です：
 
-<img src="/images/blog/minimax-h3-image-local-vs-api-2026.webp" alt="MiniMax H3-Image ローカル SGLang 推論と公式 API の 4736x3552 出力比較" />
+<img src="https://img.freeaidog.com/images/blog/minimax-h3-image-local-vs-api-2026.webp" alt="MiniMax H3-Image ローカル SGLang 推論と公式 API の 4736x3552 出力比較" />
 
 社内環境へ組み込む前には、仕様上の落とし穴を 2 つ押さえておく必要があります。
 
@@ -78,7 +78,7 @@ Comfy-Org ミラーリポジトリでは実用域まで削ぎ落とした量子�
 
 DeepMind 公表のベンチマーク一覧を見ると、強みと弱点がはっきり分かれます：
 
-<img src="/images/blog/gemini-4-carbon-benchmarks-2026.webp" alt="Gemini 4 Carbon と Gemini 4 Argon・GPT-6 Astra・Claude Opus 5.5 の公式ベンチマーク比較表" />
+<img src="https://img.freeaidog.com/images/blog/gemini-4-carbon-benchmarks-2026.webp" alt="Gemini 4 Carbon と Gemini 4 Argon・GPT-6 Astra・Claude Opus 5.5 の公式ベンチマーク比較表" />
 
 選定方針はシンプルです。Carbon は `AA Index v5.0` で 59 を記録し長文脈参照と対インジェクション耐性では頭抜けていますが、万能ではありません：
 

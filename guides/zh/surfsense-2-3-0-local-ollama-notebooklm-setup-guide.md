@@ -27,7 +27,7 @@ featured: true
 
 我们搬出机房那台测试机。机器配了 RTX 4070 12GB 显卡与 32GB 内存。拔掉外网网关。只留局域网。现场开启断网实测。
 
-<img src="/images/blog/surfsense-2-3-0-local-ollama-notebooklm-setup-guide.webp" alt="SurfSense 2.3.0 搭配本地 Ollama 架构拓扑与硬件实测面板" />
+<img src="https://img.freeaidog.com/images/blog/surfsense-2-3-0-local-ollama-notebooklm-setup-guide.webp" alt="SurfSense 2.3.0 搭配本地 Ollama 架构拓扑与硬件实测面板" />
 
 ---
 

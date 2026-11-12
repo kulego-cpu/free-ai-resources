@@ -29,7 +29,7 @@ V2EX のスレッド 1253823 で告発された業者 NiuGe AI が手がけて�
 「当店では問題アカウントの交換や返金は一切受け付けません。」
 支払った代金は一瞬で消え去りました。
 
-<img src="/images/blog/gemini-pro-account-scam-evidence.webp" alt="Gemini Pro 完成アカウント取引と停止フィードバックの記録" />
+<img src="https://img.freeaidog.com/images/blog/gemini-pro-account-scam-evidence.webp" alt="Gemini Pro 完成アカウント取引と停止フィードバックの記録" />
 
 ---
 

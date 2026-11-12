@@ -26,7 +26,7 @@ Fold away when done, leaving the main workspace clear.
 The open-source plugin DS-NewsTop addresses this workflow.
 Crafted specifically for DSH Desktop, it leverages the Cordis modular runtime to dock multi-platform feeds directly inside the client activity bar.
 
-<img src="/images/blog/ds-newstop-cover.webp" alt="DS-NewsTop sidebar multi-platform feed interface" />
+<img src="https://img.freeaidog.com/images/blog/ds-newstop-cover.webp" alt="DS-NewsTop sidebar multi-platform feed interface" />
 
 ---
 

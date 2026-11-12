@@ -41,7 +41,7 @@ We refactored our test environment communication layer following their principle
 
 Across the identical 100 composite tasks, successful runs jumped from 48 to 98, with average roundtrips collapsing to 1.1 calls per task.
 
-<img src="/images/blog/quirekit-self-describing-ai-native-editor-architecture.webp" alt="QuireKit self-describing architecture vs traditional flat tool calling architecture benchmark topology and pass rates" />
+<img src="https://img.freeaidog.com/images/blog/quirekit-self-describing-ai-native-editor-architecture.webp" alt="QuireKit self-describing architecture vs traditional flat tool calling architecture benchmark topology and pass rates" />
 
 ---
 

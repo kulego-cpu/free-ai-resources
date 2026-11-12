@@ -27,7 +27,7 @@ V2EX 帖子 1253823 曝光的商家 NiuGe AI 加钟站，干的就是这个买�
 回去找客服，对方秒回一张商品详情截图，指着底下米粒大的小字：本店问题账号不退不换。
 钱直接打了水漂。
 
-<img src="/images/blog/gemini-pro-account-scam-evidence.webp" alt="Gemini Pro 成品号交易与封停反馈记录" />
+<img src="https://img.freeaidog.com/images/blog/gemini-pro-account-scam-evidence.webp" alt="Gemini Pro 成品号交易与封停反馈记录" />
 
 ---
 

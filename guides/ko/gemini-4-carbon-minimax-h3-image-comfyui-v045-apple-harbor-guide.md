@@ -40,7 +40,7 @@ hf download MiniMaxAI/MiniMax-H3 --include "text_encoder/*"
 
 아래는 공식 저장소에 올라온 로컬 SGLang 서버와 호스팅 API의 동일 시드 출력 비교 이미지입니다:
 
-<img src="/images/blog/minimax-h3-image-local-vs-api-2026.webp" alt="MiniMax H3-Image 로컬 SGLang 추론과 공식 API 4736x3552 출력 비교" />
+<img src="https://img.freeaidog.com/images/blog/minimax-h3-image-local-vs-api-2026.webp" alt="MiniMax H3-Image 로컬 SGLang 추론과 공식 API 4736x3552 출력 비교" />
 
 실제 내부 파이프라인에 올릴 때는 두 가지 함정을 먼저 피해야 합니다.
 
@@ -78,7 +78,7 @@ Comfy-Org 미러 저장소도 소비자용 GPU에 맞춰 가지치기 및 양자
 
 DeepMind가 함께 공개한 공식 벤치마크 표는 강점과 한계를 꽤 솔직하게 보여줍니다:
 
-<img src="/images/blog/gemini-4-carbon-benchmarks-2026.webp" alt="Gemini 4 Carbon과 Gemini 4 Argon, GPT-6 Astra, Claude Opus 5.5 공식 벤치마크 비교표" />
+<img src="https://img.freeaidog.com/images/blog/gemini-4-carbon-benchmarks-2026.webp" alt="Gemini 4 Carbon과 Gemini 4 Argon, GPT-6 Astra, Claude Opus 5.5 공식 벤치마크 비교표" />
 
 선택 기준은 명확합니다. `AA Index v5.0` 59점으로 장문 추적과 보안 방어는 탁월하지만 두 갈래 실무 트랙에서는 약점을 보입니다:
 

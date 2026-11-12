@@ -40,7 +40,7 @@ hf download MiniMaxAI/MiniMax-H3 --include "text_encoder/*"
 
 下面这张是官方发布的本地 SGLang 与线上 API 同配置对照：
 
-<img src="/images/blog/minimax-h3-image-local-vs-api-2026.webp" alt="MiniMax H3-Image 本地 SGLang 推理与官方 API 4736x3552 生图输出对比" />
+<img src="https://img.freeaidog.com/images/blog/minimax-h3-image-local-vs-api-2026.webp" alt="MiniMax H3-Image 本地 SGLang 推理与官方 API 4736x3552 生图输出对比" />
 
 真往内网部署时，先避开两处暗坑。
 
@@ -78,7 +78,7 @@ Comfy-Org 镜像仓直接重新打包了裁剪量化权重：
 
 直接看 DeepMind 放出的基准总表，短板也全摆在明面上：
 
-<img src="/images/blog/gemini-4-carbon-benchmarks-2026.webp" alt="Gemini 4 Carbon 与 Gemini 4 Argon、GPT-6 Astra、Claude Opus 5.5 的官方基准评测对比表" />
+<img src="https://img.freeaidog.com/images/blog/gemini-4-carbon-benchmarks-2026.webp" alt="Gemini 4 Carbon 与 Gemini 4 Argon、GPT-6 Astra、Claude Opus 5.5 的官方基准评测对比表" />
 
 选型结论一句就够。Carbon 在 `AA Index v5.0` 拿了 59 分，长文本与防注入极强。可编码和桌面操作各有落后项：
 

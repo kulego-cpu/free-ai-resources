@@ -109,7 +109,7 @@ GPU容量に応じたモデルの自動切り替えにより、エントリー�
 
 ここで最も避けるべきは、機能追加のために重厚な外部ライブラリを無節操に抱え込むことです。
 
-<img src="/images/blog/yozakura-local-3d-ai-companion-architecture.webp" alt="Yozakura fully local 3D desktop AI companion architecture and multimodal memory tiering" />
+<img src="https://img.freeaidog.com/images/blog/yozakura-local-3d-ai-companion-architecture.webp" alt="Yozakura fully local 3D desktop AI companion architecture and multimodal memory tiering" />
 
 開発者が構築した軽量なマルチモーダルスタックの内訳は以下の通りです：
 

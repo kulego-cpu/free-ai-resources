@@ -40,7 +40,7 @@ Despite the massive disk footprint, sampling is unusually short. The checkpoint 
 
 Here is the official side-by-side output between local SGLang serving and the MiniMax hosted API using identical seeds:
 
-<img src="/images/blog/minimax-h3-image-local-vs-api-2026.webp" alt="Side-by-side output comparison between MiniMax H3-Image local SGLang inference and the hosted API at 4736x3552" />
+<img src="https://img.freeaidog.com/images/blog/minimax-h3-image-local-vs-api-2026.webp" alt="Side-by-side output comparison between MiniMax H3-Image local SGLang inference and the hosted API at 4736x3552" />
 
 Before spinning this up inside an internal pipeline, two strict traps deserve attention.
 
@@ -78,7 +78,7 @@ Check the footnote before flipping all traffic over. Once the promo window close
 
 Google's own benchmark table spells out both strengths and real gaps:
 
-<img src="/images/blog/gemini-4-carbon-benchmarks-2026.webp" alt="Official Google DeepMind benchmark comparison across Gemini 4 Carbon, Gemini 4 Argon, GPT-6 Astra, and Claude Opus 5.5" />
+<img src="https://img.freeaidog.com/images/blog/gemini-4-carbon-benchmarks-2026.webp" alt="Official Google DeepMind benchmark comparison across Gemini 4 Carbon, Gemini 4 Argon, GPT-6 Astra, and Claude Opus 5.5" />
 
 The routing rule is straightforward. Carbon hits 59 on `AA Index v5.0` with standout long-context recall and security hardening, yet loses head-to-head on two practical tracks:
 

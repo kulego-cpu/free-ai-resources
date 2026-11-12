@@ -109,7 +109,7 @@ Reddit 社区开发板块的独立作者 u/Majestic-Trash4233 最近公开了一
 
 这里最忌讳的就是为了凑多模态功能盲目引入笨重的大库。
 
-<img src="/images/blog/yozakura-local-3d-ai-companion-architecture.webp" alt="Yozakura 全本地 3D 桌面伙伴全栈拓扑与多模态显存分层架构" />
+<img src="https://img.freeaidog.com/images/blog/yozakura-local-3d-ai-companion-architecture.webp" alt="Yozakura 全本地 3D 桌面伙伴全栈拓扑与多模态显存分层架构" />
 
 我们来盘点一下作者抠出来的极简全栈拼图：
 

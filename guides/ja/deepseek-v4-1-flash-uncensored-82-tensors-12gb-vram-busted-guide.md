@@ -27,7 +27,7 @@ featured: true
 
 私たちはRTX 4070 12GBと128GBのメインメモリを備えたマシンを用意し、Strata環境で立ち上げを試みました。初回起動時はメモリ不足で即座にクラッシュ。ログを追うとシャード間のシンボリックリンクが欠落し、mmap のアドレス解決が境界を越えていました。ちなみにGPUオフロード層の指定引数はこの構成ではStrataに無視されます。リンクを直してようやく立ち上がりました。
 
-<img src="/images/blog/deepseek-v41-uncensored-strata-benchmark.webp" alt="DeepSeek-V4.1-Flash 検閲解除 82テンソル残差ストリーム改変とStrata実測ベンチマーク" />
+<img src="https://img.freeaidog.com/images/blog/deepseek-v41-uncensored-strata-benchmark.webp" alt="DeepSeek-V4.1-Flash 検閲解除 82テンソル残差ストリーム改変とStrata実測ベンチマーク" />
 
 ---
 

@@ -29,7 +29,7 @@ The exact error code was ACCOUNT_DISABLED.
 When the buyer reached customer support, the seller immediately returned a cropped image pointing to tiny fine print at the bottom: Problem accounts are non-refundable.
 The money vanished instantly.
 
-<img src="/images/blog/gemini-pro-account-scam-evidence.webp" alt="Gemini Pro account transaction and ban feedback record" />
+<img src="https://img.freeaidog.com/images/blog/gemini-pro-account-scam-evidence.webp" alt="Gemini Pro account transaction and ban feedback record" />
 
 ---
 

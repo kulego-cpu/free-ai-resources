@@ -27,7 +27,7 @@ The repository pitches itself as an air gapped, Apache-2.0 open source alternati
 
 We wheeled out our lab test rig equipped with an RTX 4070 12GB card and 32GB of host RAM. We disconnected the external internet gateway, leaving only local area network access, and kicked off an offline evaluation.
 
-<img src="/images/blog/surfsense-2-3-0-local-ollama-notebooklm-setup.webp" alt="SurfSense 2.3.0 and Local Ollama Architecture Topology with Real Hardware Telemetry" />
+<img src="https://img.freeaidog.com/images/blog/surfsense-2-3-0-local-ollama-notebooklm-setup.webp" alt="SurfSense 2.3.0 and Local Ollama Architecture Topology with Real Hardware Telemetry" />
 
 ---
 

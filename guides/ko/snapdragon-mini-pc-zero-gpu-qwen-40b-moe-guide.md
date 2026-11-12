@@ -17,7 +17,7 @@ featured: true
 
 그런데 최근 r/LocalLLaMA 커뮤니티에서 홈랩 하드웨어 매니아들의 시선을 강탈한 기막힌 조합이 등장했습니다: **외장 그래픽카드(GPU)를 일절 쓰지 않고, 대당 약 299파운드(한화 약 53만 원)짜리 레노버 IdeaCentre Mini 스냅드래곤 미니 PC 2대를 USB4 케이블 하나로 직결해 무려 95GB 용량의 Qwen3.8 Flash-Next 모델을 실사용 속도로 구동하는 방식**입니다.
 
-![원목 책상 위에 USB4 케이블로 나란히 직결된 두 대의 레노버 IdeaCentre Mini 스냅드래곤 PC](/images/lenovo-ideacentre-mini-dual-setup.jpg)
+![원목 책상 위에 USB4 케이블로 나란히 직결된 두 대의 레노버 IdeaCentre Mini 스냅드래곤 PC](https://img.freeaidog.com/images/lenovo-ideacentre-mini-dual-setup.jpg)
 
 뜬구름 잡는 개념 설명 대신, **하드웨어 구매 체크리스트부터 핵심 원리, 윈도우 온 ARM 환경 구축, 모델 다운로드, USB4 P2P 직결 네트워크, 분산 실행 명령어**까지 초보자도 그대로 따라 할 수 있는 튜토리얼로 정리했습니다.
 

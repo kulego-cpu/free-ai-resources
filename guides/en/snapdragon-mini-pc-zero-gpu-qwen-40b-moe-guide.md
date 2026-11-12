@@ -17,7 +17,7 @@ Running 40B+ open-weight models locally has traditionally required painful trade
 
 Today on r/LocalLLaMA, hardware hackers found a mind-bending budget alternative: **zero dedicated GPUs, two £299 (approx. $390) Lenovo IdeaCentre Mini Snapdragon PCs, and one single USB4 Type-C cable—running the massive 95GB Qwen3.8 Flash-Next MoE model!**
 
-![Two Lenovo IdeaCentre Mini Snapdragon PCs connected side-by-side with a USB4 cable on a wooden desk](/images/lenovo-ideacentre-mini-dual-setup.jpg)
+![Two Lenovo IdeaCentre Mini Snapdragon PCs connected side-by-side with a USB4 cable on a wooden desk](https://img.freeaidog.com/images/lenovo-ideacentre-mini-dual-setup.jpg)
 
 No hand-wavy theory here. I put together a **complete, beginner-friendly walkthrough** covering the hardware shopping list, core concepts, Windows on ARM compiler steps, model downloads, USB4 peer-to-peer configuration, and distributed CLI execution.
 

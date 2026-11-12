@@ -27,7 +27,7 @@ AI クライアントの内部に軽量なサイドバーがあればどうで�
 オープンソース拡張 DS-NewsTop はこの課題に対応します。
 DSH Desktop 専用に設計されており、Cordis モジュール機構を通じてサイドバーに各プラットフォームのトレンドを統合します。
 
-<img src="/images/blog/ds-newstop-cover.webp" alt="DS-NewsTop サイドバー多重プラットフォーム画面" />
+<img src="https://img.freeaidog.com/images/blog/ds-newstop-cover.webp" alt="DS-NewsTop サイドバー多重プラットフォーム画面" />
 
 ---
 

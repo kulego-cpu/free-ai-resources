@@ -27,7 +27,7 @@ featured: true
 
 동료와 함께 RTX 4070 12GB 그래픽카드와 128GB 시스템 메모리를 탑재한 워크스테이션을 마련하고 Strata 런타임으로 배포를 시작했습니다。첫 번째 로딩은 메모리 초과로 즉각 다운되었습니다。로그를 확인해 보니 샤드 간 심볼릭 링크가 누락되어 mmap 주소 참조 오류가 발생했습니다。참고로 GPU 레이어 오프로딩 옵션은 Strata에서 완전히 무시됩니다。링크를 수정한 뒤에야 서비스가 간신히 구동되었습니다。
 
-<img src="/images/blog/deepseek-v41-uncensored-strata-benchmark.webp" alt="DeepSeek-V4.1-Flash 검열 해제 82개 텐서 잔차 스트림 수정 및 Strata 실측 벤치마크" />
+<img src="https://img.freeaidog.com/images/blog/deepseek-v41-uncensored-strata-benchmark.webp" alt="DeepSeek-V4.1-Flash 검열 해제 82개 텐서 잔차 스트림 수정 및 Strata 실측 벤치마크" />
 
 ---
 

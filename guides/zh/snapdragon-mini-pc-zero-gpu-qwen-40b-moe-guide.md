@@ -17,7 +17,7 @@ featured: true
 
 今天小可要跟大家分享一个在 r/LocalLLaMA 社区被极客们玩疯了的“捡垃圾神仙方案”：**完全不需要独立显卡，用两台只要 £299.99（约合人民币 ¥2700 出头）的联想 IdeaCentre Mini 骁龙迷你电脑，中间插一根 USB4 数据线，就能实测跑通高达 95GB 的 Qwen3.8 Flash-Next 前沿模型！**
 
-![两台联想 IdeaCentre Mini 骁龙迷你电脑通过一根 USB4 线并联在桌面上](/images/lenovo-ideacentre-mini-dual-setup.jpg)
+![两台联想 IdeaCentre Mini 骁龙迷你电脑通过一根 USB4 线并联在桌面上](https://img.freeaidog.com/images/lenovo-ideacentre-mini-dual-setup.jpg)
 
 这篇文章不搞大而化之的概念科普，小可把**硬件选购清单、底层原理、系统驱动、模型下载、USB4 点对点直连、以及分布式启动命令**全套整理成小白保姆级步骤。哪怕你从没折腾过集群，跟着一步步敲也能跑起来。
 

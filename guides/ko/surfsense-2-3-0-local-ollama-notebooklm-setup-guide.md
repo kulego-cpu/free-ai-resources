@@ -27,7 +27,7 @@ Apache-2.0 라이선스로 완전 공개된 이 프로젝트는 NotebookLM 을 �
 
 RTX 4070 12GB 그래픽카드와 32GB 메모리를 탑재한 테스트 머신을 준비하고 외부 인터넷 게이트웨이를 차단하여 순수 로컬 오프라인 실측을 시작했습니다。
 
-<img src="/images/blog/surfsense-2-3-0-local-ollama-notebooklm-setup.webp" alt="SurfSense 2.3.0 과 로컬 Ollama 연동 아키텍처 및 하드웨어 텔레메트리" />
+<img src="https://img.freeaidog.com/images/blog/surfsense-2-3-0-local-ollama-notebooklm-setup.webp" alt="SurfSense 2.3.0 과 로컬 Ollama 연동 아키텍처 및 하드웨어 텔레메트리" />
 
 ---
 

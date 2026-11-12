@@ -17,7 +17,7 @@ featured: true
 
 そんな中、r/LocalLLaMA コミュニティで自作派の度肝を抜く構成が話題になっています：**専用グラフィックボードは一切使わず、1台わずか299ポンド（約5.8万円）の Lenovo IdeaCentre Mini Snapdragon PC 2台を USB4 ケーブル1本で直結し、95GB もの容量を誇る Qwen3.8 Flash-Next を実用速度で動かす**という手法です。
 
-![木製デスク上でUSB4ケーブルによって直結された2台のLenovo IdeaCentre Mini Snapdragon PC](/images/lenovo-ideacentre-mini-dual-setup.jpg)
+![木製デスク上でUSB4ケーブルによって直結された2台のLenovo IdeaCentre Mini Snapdragon PC](https://img.freeaidog.com/images/lenovo-ideacentre-mini-dual-setup.jpg)
 
 本記事では、机上の空論を排し、**機材の購入リスト・動作原理・Windows on ARM でのエンジン導入・モデルのダウンロード・USB4 ポイントツーポイント接続・分散起動コマンド**まで、初心者でも順を追って真似できるよう手取り足取りまとめました。
 

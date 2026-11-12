@@ -19,7 +19,7 @@ featured: true
 두 시간에 걸친 회의는 키보드로 일일이 수기 기록했지만 두 건의 주요 결정 사항이 누락되었습니다.
 회의 직후 저는 Natively 3.0 실측에 착수했습니다. 회의록 자동화는 필요하되 오디오는 단 1바이트도 호스트 PC 밖으로 내보내지 않는 것이 전제였습니다.
 
-<img src="/images/blog/natively-meeting-dashboard.webp" alt="Natively 3.0 로컬 회의록 및 실시간 질의응답 패널" />
+<img src="https://img.freeaidog.com/images/blog/natively-meeting-dashboard.webp" alt="Natively 3.0 로컬 회의록 및 실시간 질의응답 패널" />
 
 ---
 

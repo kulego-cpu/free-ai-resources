@@ -45,7 +45,7 @@ featured: true
 
 同一套包含100项复合任务的基准用例，任务通过数直接从48条拉升到98条，平均调用往返收敛到了1.1次。
 
-<img src="/images/blog/quirekit-self-describing-ai-native-editor-architecture.webp" alt="QuireKit自描述架构与传统工具平铺模式在富文本编辑场景下的架构拓扑与通过率对比" />
+<img src="https://img.freeaidog.com/images/blog/quirekit-self-describing-ai-native-editor-architecture.webp" alt="QuireKit自描述架构与传统工具平铺模式在富文本编辑场景下的架构拓扑与通过率对比" />
 
 ---
 

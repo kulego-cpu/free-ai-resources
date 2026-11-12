@@ -19,7 +19,7 @@ Someone reached to toggle a cloud AI meeting extension. Legal stopped it immedia
 The two-hour session ended up manually logged on keyboards, yet two key action items were missed.
 Right after that meeting, I tested Natively 3.0: meeting notes are necessary, but audio must remain on-host.
 
-<img src="/images/blog/natively-meeting-dashboard.webp" alt="Natively 3.0 local meeting notes and real-time query interface" />
+<img src="https://img.freeaidog.com/images/blog/natively-meeting-dashboard.webp" alt="Natively 3.0 local meeting notes and real-time query interface" />
 
 ---
 

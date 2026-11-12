@@ -43,7 +43,7 @@ AI搭載型のリッチテキストエディタを開発する現場では、多
 
 同一の100件の複合タスクを実行した結果、タスク通過数は48件から98件へと跳ね上がり、平均往復回数は1.1回に収束しました。
 
-<img src="/images/blog/quirekit-self-describing-ai-native-editor-architecture.webp" alt="QuireKitの自己記述型アーキテクチャと従来のツール平置型アプローチのトポロジおよび通過率比較" />
+<img src="https://img.freeaidog.com/images/blog/quirekit-self-describing-ai-native-editor-architecture.webp" alt="QuireKitの自己記述型アーキテクチャと従来のツール平置型アプローチのトポロジおよび通過率比較" />
 
 ---
 

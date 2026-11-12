@@ -109,7 +109,7 @@ With the brain running, the system needs ears, eyes, and vocal output.
 
 Bloated external frameworks must be avoided.
 
-<img src="/images/blog/yozakura-local-3d-ai-companion-architecture.webp" alt="Yozakura fully local 3D desktop AI companion architecture and multimodal memory tiering" />
+<img src="https://img.freeaidog.com/images/blog/yozakura-local-3d-ai-companion-architecture.webp" alt="Yozakura fully local 3D desktop AI companion architecture and multimodal memory tiering" />
 
 Here is how the lean multimodal pipeline fits together:
 

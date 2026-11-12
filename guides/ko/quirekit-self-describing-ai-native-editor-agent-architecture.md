@@ -43,7 +43,7 @@ AI 기반 리치 텍스트 에디터를 개발하는 팀들은 대개 비슷한 
 
 동일한 100건의 복합 작업을 실행한 결과、작업 통과 수는 48건에서 98건으로 급증했고 평균 왕복 횟수는 1.1회로 수렴했습니다。
 
-<img src="/images/blog/quirekit-self-describing-ai-native-editor-architecture.webp" alt="QuireKit 자기 기술형 아키텍처와 기존 툴 나열 방식의 토폴로지 및 통과율 비교" />
+<img src="https://img.freeaidog.com/images/blog/quirekit-self-describing-ai-native-editor-architecture.webp" alt="QuireKit 자기 기술형 아키텍처와 기존 툴 나열 방식의 토폴로지 및 통과율 비교" />
 
 ---
 

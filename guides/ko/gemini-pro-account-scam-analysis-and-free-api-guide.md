@@ -29,7 +29,7 @@ V2EX 게시글 1253823 에서 폭로된 판매자 NiuGe AI 가 벌인 일이 바
 본 매장은 문제 계정에 대한 환불이나 교환을 일절 진행하지 않습니다.
 결제한 돈은 그대로 허공으로 사라졌습니다.
 
-<img src="/images/blog/gemini-pro-account-scam-evidence.webp" alt="Gemini Pro 계정 거래 및 정지 피드백 기록" />
+<img src="https://img.freeaidog.com/images/blog/gemini-pro-account-scam-evidence.webp" alt="Gemini Pro 계정 거래 및 정지 피드백 기록" />
 
 ---
 

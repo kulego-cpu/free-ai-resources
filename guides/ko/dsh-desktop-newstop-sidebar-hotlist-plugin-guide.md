@@ -26,7 +26,7 @@ AI 개발 도구 내부에 가벼운 사이드바가 상주한다면 어떨까�
 오픈소스 플러그인 DS-NewsTop이 이 요구에 부합합니다.
 DSH Desktop 환경에 맞춤 설계되었으며 Cordis 모듈식 구조를 통해 다양한 플랫폼의 트렌드를 사이드바에 통합합니다.
 
-<img src="/images/blog/ds-newstop-cover.webp" alt="DS-NewsTop 사이드바 다중 플랫폼 피드 화면" />
+<img src="https://img.freeaidog.com/images/blog/ds-newstop-cover.webp" alt="DS-NewsTop 사이드바 다중 플랫폼 피드 화면" />
 
 ---
 
